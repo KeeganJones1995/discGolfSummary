@@ -1,0 +1,1387 @@
+Disc Golf Summary
+As of: July 11 2021
+
+Player: Jones
+Number of Rounds: 158
+
+Course: greenLane
+Rounds Played: 111	Par: 54		Personal Best: 55(+1)Personal Average: 66.7	The Boys Best: 55(+1)The Boys Average: 69
+
+Hole: 1		Par: 3	Average: 3.36	The Boys Averages: 3.53	Birdies: 12	Percentage: 10.8%	Pars: 60	Percentage: 54.1%
+Hole: 2		Par: 3	Average: 4.3	The Boys Averages: 4.4	Birdies: 0	Percentage: 0%	Pars: 16	Percentage: 14.4%
+Hole: 3		Par: 3	Average: 3.32	The Boys Averages: 3.47	Birdies: 11	Percentage: 9.91%	Pars: 64	Percentage: 57.7%
+Hole: 4		Par: 3	Average: 4.03	The Boys Averages: 4.13	Birdies: 0	Percentage: 0%	Pars: 32	Percentage: 28.8%
+Hole: 5		Par: 3	Average: 3.47	The Boys Averages: 3.67	Birdies: 9	Percentage: 8.11%	Pars: 52	Percentage: 46.8%
+Hole: 6		Par: 3	Average: 3.5	The Boys Averages: 3.63	Birdies: 15	Percentage: 13.5%	Pars: 45	Percentage: 40.5%
+Hole: 7		Par: 3	Average: 4.23	The Boys Averages: 4.26	Birdies: 0	Percentage: 0%	Pars: 17	Percentage: 15.3%
+Hole: 8		Par: 3	Average: 4.29	The Boys Averages: 4.41	Birdies: 0	Percentage: 0%	Pars: 20	Percentage: 18%
+Hole: 9		Par: 3	Average: 3.82	The Boys Averages: 3.91	Birdies: 1	Percentage: 0.901%	Pars: 40	Percentage: 36%
+Hole: 10		Par: 3	Average: 3.54	The Boys Averages: 3.72	Birdies: 3	Percentage: 2.75%	Pars: 60	Percentage: 55%
+Hole: 11		Par: 3	Average: 3.45	The Boys Averages: 3.57	Birdies: 4	Percentage: 3.67%	Pars: 63	Percentage: 57.8%
+Hole: 12		Par: 3	Average: 3.33	The Boys Averages: 3.53	Birdies: 8	Percentage: 7.34%	Pars: 70	Percentage: 64.2%
+Hole: 13		Par: 3	Average: 3.47	The Boys Averages: 3.66	Birdies: 7	Percentage: 6.42%	Pars: 51	Percentage: 46.8%
+Hole: 14		Par: 3	Average: 3.94	The Boys Averages: 4	Birdies: 2	Percentage: 1.83%	Pars: 33	Percentage: 30.3%
+Hole: 15		Par: 3	Average: 3.16	The Boys Averages: 3.3	Birdies: 15	Percentage: 13.8%	Pars: 69	Percentage: 63.3%
+Hole: 16		Par: 3	Average: 4.09	The Boys Averages: 4.23	Birdies: 0	Percentage: 0%	Pars: 20	Percentage: 18.3%
+Hole: 17		Par: 3	Average: 3.73	The Boys Averages: 3.85	Birdies: 5	Percentage: 4.59%	Pars: 37	Percentage: 33.9%
+Hole: 18		Par: 3	Average: 3.63	The Boys Averages: 3.75	Birdies: 3	Percentage: 2.75%	Pars: 52	Percentage: 47.7%
+Course: aylmerSteenPark
+Rounds Played: 2	Par: 54		Personal Best: 65(+11)Personal Average: 66.5	The Boys Best: 64(+10)The Boys Average: 66.6
+
+Hole: 1		Par: 3	Average: 3	The Boys Averages: 3	Birdies: 0	Percentage: 0%	Pars: 2	Percentage: 100%
+Hole: 2		Par: 3	Average: 3	The Boys Averages: 3.4	Birdies: 0	Percentage: 0%	Pars: 2	Percentage: 100%
+Hole: 3		Par: 3	Average: 4.5	The Boys Averages: 4.6	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 4		Par: 3	Average: 3.5	The Boys Averages: 3.2	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 5		Par: 3	Average: 3.5	The Boys Averages: 3.4	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 6		Par: 3	Average: 4.5	The Boys Averages: 5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 7		Par: 3	Average: 4	The Boys Averages: 3.4	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 8		Par: 3	Average: 3.5	The Boys Averages: 3.6	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 9		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 10		Par: 3	Average: 3.5	The Boys Averages: 3.6	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 11		Par: 3	Average: 4	The Boys Averages: 4.2	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 12		Par: 3	Average: 3.5	The Boys Averages: 3.4	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 13		Par: 3	Average: 4.5	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 14		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 15		Par: 3	Average: 3.5	The Boys Averages: 3.6	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 16		Par: 3	Average: 3.5	The Boys Averages: 3.4	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 17		Par: 3	Average: 4	The Boys Averages: 3.8	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 18		Par: 3	Average: 2.5	The Boys Averages: 3	Birdies: 1	Percentage: 50%	Pars: 1	Percentage: 50%
+
+Course: birchPoint
+Rounds Played: 1	Par: 54		Personal Best: 66(+12)Personal Average: 66	The Boys Best: 66(+12)The Boys Average: 66
+
+Hole: 1		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 2		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 3		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 4		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 5		Par: 3	Average: 3	The Boys Averages: 3	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 6		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 7		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 8		Par: 3	Average: 5	The Boys Averages: 5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 9		Par: 3	Average: 3	The Boys Averages: 3	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 10		Par: 3	Average: 3	The Boys Averages: 3	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 11		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 12		Par: 3	Average: 3	The Boys Averages: 3	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 13		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 14		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 15		Par: 3	Average: 3	The Boys Averages: 3	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 16		Par: 3	Average: 3	The Boys Averages: 3	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 17		Par: 3	Average: 3	The Boys Averages: 3	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 18		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+
+Course: bronteCreekRed
+Rounds Played: 1	Par: 57		Personal Best: 75(+18)Personal Average: 75	The Boys Best: 69(+12)The Boys Average: 72
+
+Hole: 1		Par: 3	Average: 5	The Boys Averages: 4.5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 2		Par: 3	Average: 4	The Boys Averages: 3.5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 3		Par: 3	Average: 4	The Boys Averages: 3.5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 4		Par: 3	Average: 5	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 5		Par: 3	Average: 3	The Boys Averages: 3	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 6		Par: 3	Average: 4	The Boys Averages: 3.5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 7		Par: 4	Average: 5	The Boys Averages: 4.5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 8		Par: 3	Average: 4	The Boys Averages: 3.5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 9		Par: 3	Average: 4	The Boys Averages: 4.5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 10		Par: 3	Average: 4	The Boys Averages: 3.5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 11		Par: 3	Average: 3	The Boys Averages: 4.5	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 12		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 13		Par: 3	Average: 3	The Boys Averages: 4.5	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 14		Par: 3	Average: 5	The Boys Averages: 4.5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 15		Par: 4	Average: 5	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 16		Par: 4	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 17		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 18		Par: 3	Average: 5	The Boys Averages: 4.5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+
+Course: bronteCreekYellow
+Rounds Played: 1	Par: 54		Personal Best: 67(+13)Personal Average: 67	The Boys Best: 60(+6)The Boys Average: 60
+
+Hole: 1		Par: 3	Average: 5	The Boys Averages: 3.67	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 2		Par: 3	Average: 3	The Boys Averages: 3.33	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 3		Par: 3	Average: 5	The Boys Averages: 3.67	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 4		Par: 3	Average: 2	The Boys Averages: 2.67	Birdies: 1	Percentage: 100%	Pars: 0	Percentage: 0%
+Hole: 5		Par: 3	Average: 4	The Boys Averages: 3.33	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 6		Par: 3	Average: 2	The Boys Averages: 3	Birdies: 1	Percentage: 100%	Pars: 0	Percentage: 0%
+Hole: 7		Par: 3	Average: 4	The Boys Averages: 3	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 8		Par: 3	Average: 4	The Boys Averages: 3	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 9		Par: 3	Average: 4	The Boys Averages: 3	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 10		Par: 3	Average: 3	The Boys Averages: 3.33	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 11		Par: 3	Average: 3	The Boys Averages: 3	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 12		Par: 3	Average: 5	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 13		Par: 3	Average: 4	The Boys Averages: 3.67	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 14		Par: 3	Average: 4	The Boys Averages: 3.33	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 15		Par: 3	Average: 3	The Boys Averages: 3.67	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 16		Par: 3	Average: 4	The Boys Averages: 3.33	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 17		Par: 3	Average: 4	The Boys Averages: 3.67	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 18		Par: 3	Average: 4	The Boys Averages: 3.33	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+
+Course: christieLake
+Rounds Played: 3	Par: 58		Personal Best: 74(+16)Personal Average: 77.3	The Boys Best: 73(+15)The Boys Average: 81.3
+
+Hole: 1		Par: 3	Average: 4.67	The Boys Averages: 4.67	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 2		Par: 3	Average: 3.67	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 33.3%
+Hole: 3		Par: 3	Average: 4.33	The Boys Averages: 4.33	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 4		Par: 4	Average: 4.67	The Boys Averages: 4.67	Birdies: 0	Percentage: 0%	Pars: 2	Percentage: 66.7%
+Hole: 5		Par: 4	Average: 5.33	The Boys Averages: 6.33	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 33.3%
+Hole: 6		Par: 3	Average: 4.33	The Boys Averages: 4.44	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 33.3%
+Hole: 7		Par: 3	Average: 3.67	The Boys Averages: 3.56	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 33.3%
+Hole: 8		Par: 3	Average: 3.67	The Boys Averages: 3.89	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 33.3%
+Hole: 9		Par: 3	Average: 5.33	The Boys Averages: 4.67	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 10		Par: 3	Average: 4	The Boys Averages: 4.44	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 33.3%
+Hole: 11		Par: 3	Average: 5	The Boys Averages: 5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 12		Par: 3	Average: 3.33	The Boys Averages: 4.22	Birdies: 0	Percentage: 0%	Pars: 2	Percentage: 66.7%
+Hole: 13		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 33.3%
+Hole: 14		Par: 3	Average: 3.67	The Boys Averages: 3.78	Birdies: 0	Percentage: 0%	Pars: 2	Percentage: 66.7%
+Hole: 15		Par: 3	Average: 3.67	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 33.3%
+Hole: 16		Par: 3	Average: 3.67	The Boys Averages: 3.78	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 33.3%
+Hole: 17		Par: 4	Average: 6	The Boys Averages: 6.56	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 33.3%
+Hole: 18		Par: 4	Average: 4.33	The Boys Averages: 5	Birdies: 0	Percentage: 0%	Pars: 2	Percentage: 66.7%
+
+Course: gemmil
+Rounds Played: 1	Par: 0		Personal Best: 0(0)Personal Average: 0	The Boys Best: 0(0)The Boys Average: 0
+
+
+Course: georgetown
+Rounds Played: 1	Par: 28		Personal Best: 36(+8)Personal Average: 36	The Boys Best: 36(+8)The Boys Average: 37
+
+Hole: 1		Par: 3	Average: 3	The Boys Averages: 3	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 2		Par: 3	Average: 3	The Boys Averages: 3.5	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 3		Par: 3	Average: 5	The Boys Averages: 5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 4		Par: 3	Average: 5	The Boys Averages: 5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 5		Par: 3	Average: 5	The Boys Averages: 4.5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 6		Par: 3	Average: 3	The Boys Averages: 3.5	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 7		Par: 4	Average: 4	The Boys Averages: 4.5	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 8		Par: 3	Average: 4	The Boys Averages: 3.5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 9		Par: 3	Average: 4	The Boys Averages: 4.5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+
+Course: laFortune
+Rounds Played: 3	Par: 58		Personal Best: 84(+26)Personal Average: 90.3	The Boys Best: 68(+10)The Boys Average: 89.1
+
+Hole: 1		Par: 3	Average: 5.33	The Boys Averages: 5.11	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 2		Par: 3	Average: 4.33	The Boys Averages: 4.44	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 3		Par: 3	Average: 5	The Boys Averages: 5.22	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 33.3%
+Hole: 4		Par: 3	Average: 4.33	The Boys Averages: 4.67	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 5		Par: 3	Average: 5	The Boys Averages: 5.33	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 6		Par: 3	Average: 4.67	The Boys Averages: 4.11	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 7		Par: 3	Average: 6	The Boys Averages: 6.33	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 8		Par: 3	Average: 4.67	The Boys Averages: 4.78	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 9		Par: 3	Average: 6.67	The Boys Averages: 6.11	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 10		Par: 3	Average: 4	The Boys Averages: 4.56	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 11		Par: 4	Average: 5	The Boys Averages: 4.78	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 12		Par: 3	Average: 4	The Boys Averages: 3.56	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 13		Par: 3	Average: 4	The Boys Averages: 4.11	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 33.3%
+Hole: 14		Par: 3	Average: 4.33	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 15		Par: 3	Average: 6.33	The Boys Averages: 5.67	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 16		Par: 3	Average: 3.67	The Boys Averages: 3.67	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 33.3%
+Hole: 17		Par: 3	Average: 4.33	The Boys Averages: 4.11	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 18		Par: 3	Average: 4	The Boys Averages: 4.11	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 19		Par: 3	Average: 4.67	The Boys Averages: 4.43	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+
+Course: mohawk
+Rounds Played: 2	Par: 55		Personal Best: 61(+6)Personal Average: 69	The Boys Best: 60(+5)The Boys Average: 66.8
+
+Hole: 1		Par: 3	Average: 4.5	The Boys Averages: 4.2	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 2		Par: 3	Average: 3.5	The Boys Averages: 3.4	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 3		Par: 3	Average: 3.5	The Boys Averages: 3.4	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 4		Par: 4	Average: 4.5	The Boys Averages: 4.2	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 5		Par: 3	Average: 3.5	The Boys Averages: 3.4	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 6		Par: 3	Average: 3.5	The Boys Averages: 3.8	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 7		Par: 3	Average: 4.5	The Boys Averages: 3.8	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 8		Par: 3	Average: 3.5	The Boys Averages: 3.6	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 9		Par: 3	Average: 4	The Boys Averages: 3.6	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 10		Par: 3	Average: 5.5	The Boys Averages: 4.8	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 11		Par: 3	Average: 2.5	The Boys Averages: 3	Birdies: 1	Percentage: 50%	Pars: 1	Percentage: 50%
+Hole: 12		Par: 3	Average: 4.5	The Boys Averages: 4.4	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 13		Par: 3	Average: 4	The Boys Averages: 3.8	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 14		Par: 3	Average: 4	The Boys Averages: 3.6	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 15		Par: 3	Average: 4	The Boys Averages: 3.6	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 16		Par: 3	Average: 2.5	The Boys Averages: 2.6	Birdies: 1	Percentage: 50%	Pars: 1	Percentage: 50%
+Hole: 17		Par: 3	Average: 3	The Boys Averages: 3.6	Birdies: 0	Percentage: 0%	Pars: 2	Percentage: 100%
+Hole: 18		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+
+Course: niagaraDGC
+Rounds Played: 1	Par: 54		Personal Best: 62(+8)Personal Average: 62	The Boys Best: 62(+8)The Boys Average: 62
+
+Hole: 1		Par: 3	Average: 5	The Boys Averages: 5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 2		Par: 3	Average: 3	The Boys Averages: 3	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 3		Par: 3	Average: 3	The Boys Averages: 3	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 4		Par: 3	Average: 3	The Boys Averages: 3	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 5		Par: 3	Average: 3	The Boys Averages: 3	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 6		Par: 3	Average: 3	The Boys Averages: 3	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 7		Par: 3	Average: 3	The Boys Averages: 3	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 8		Par: 3	Average: 2	The Boys Averages: 2	Birdies: 1	Percentage: 100%	Pars: 0	Percentage: 0%
+Hole: 9		Par: 3	Average: 3	The Boys Averages: 3	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 10		Par: 3	Average: 5	The Boys Averages: 5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 11		Par: 3	Average: 3	The Boys Averages: 3	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 12		Par: 3	Average: 3	The Boys Averages: 3	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 13		Par: 3	Average: 5	The Boys Averages: 5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 14		Par: 3	Average: 3	The Boys Averages: 3	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 15		Par: 3	Average: 3	The Boys Averages: 3	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 16		Par: 3	Average: 5	The Boys Averages: 5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 17		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 18		Par: 3	Average: 3	The Boys Averages: 3	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+
+Course: pittock
+Rounds Played: 1	Par: 55		Personal Best: 76(+21)Personal Average: 76	The Boys Best: 75(+20)The Boys Average: 77.3
+
+Hole: 1		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 2		Par: 3	Average: 4	The Boys Averages: 4.67	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 3		Par: 3	Average: 4	The Boys Averages: 3.67	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 4		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 5		Par: 3	Average: 3	The Boys Averages: 3	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 6		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 7		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 8		Par: 3	Average: 3	The Boys Averages: 3.67	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 9		Par: 3	Average: 6	The Boys Averages: 4.67	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 10		Par: 4	Average: 7	The Boys Averages: 6.33	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 11		Par: 3	Average: 4	The Boys Averages: 4.67	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 12		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 13		Par: 3	Average: 4	The Boys Averages: 4.67	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 14		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 15		Par: 3	Average: 5	The Boys Averages: 5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 16		Par: 3	Average: 5	The Boys Averages: 4.33	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 17		Par: 3	Average: 3	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 18		Par: 3	Average: 4	The Boys Averages: 4.67	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+
+Course: riversEdge
+Rounds Played: 1	Par: 86		Personal Best: 897(+811)Personal Average: -nan(ind)	The Boys Best: 897(+811)The Boys Average: -nan(ind)
+
+Hole: 1		Par: 4	Average: 6	The Boys Averages: 6.5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 2		Par: 3	Average: 4	The Boys Averages: 5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 3		Par: 4	Average: 5	The Boys Averages: 6	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 4		Par: 4	Average: 6	The Boys Averages: 5.5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 5		Par: 3	Average: 3	The Boys Averages: 3.5	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 6		Par: 3	Average: 6	The Boys Averages: 5.5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 7		Par: 3	Average: 4	The Boys Averages: 4.5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 8		Par: 3	Average: 3	The Boys Averages: 3.5	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 9		Par: 3	Average: 5	The Boys Averages: 4.5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 10		Par: 3	Average: 5	The Boys Averages: 5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 11		Par: 3	Average: 4	The Boys Averages: 5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 12		Par: 3	Average: 5	The Boys Averages: 5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 13		Par: 3	Average: 6	The Boys Averages: 6	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 14		Par: 4	Average: 7	The Boys Averages: 6	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 15		Par: 3	Average: 5	The Boys Averages: 5.5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 16		Par: 3	Average: 5	The Boys Averages: 5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 17		Par: 3	Average: 6	The Boys Averages: 5.5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 18		Par: 3	Average: 5	The Boys Averages: 4.5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 19		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 20		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 21		Par: 3	Average: 5	The Boys Averages: 5.5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 22		Par: 4	Average: 5	The Boys Averages: 6	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 23		Par: 3	Average: 5	The Boys Averages: 4.5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 24		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 25		Par: 3	Average: 5	The Boys Averages: 5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 26		Par: 3	Average: 5	The Boys Averages: 4.5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 27		Par: 3	Average: -nan(ind)	The Boys Averages: -nan(ind)	Birdies: 0	Percentage: -nan(ind)%	Pars: 0	Percentage: -nan(ind)%
+
+Course: riverview
+Rounds Played: 1	Par: 54		Personal Best: 897(+843)Personal Average: -nan(ind)	The Boys Best: 897(+843)The Boys Average: -nan(ind)
+
+Hole: 1		Par: 3	Average: 3	The Boys Averages: 3	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 2		Par: 3	Average: 3	The Boys Averages: 3	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 3		Par: 3	Average: 3	The Boys Averages: 3	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 4		Par: 3	Average: 3	The Boys Averages: 3	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 5		Par: 3	Average: 2	The Boys Averages: 2	Birdies: 1	Percentage: 100%	Pars: 0	Percentage: 0%
+Hole: 6		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 7		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 8		Par: 3	Average: 5	The Boys Averages: 5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 9		Par: 3	Average: 5	The Boys Averages: 5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 10		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 11		Par: 3	Average: 3	The Boys Averages: 3	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 12		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 13		Par: 3	Average: 3	The Boys Averages: 3	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 14		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 15		Par: 3	Average: 3	The Boys Averages: 3	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 16		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 17		Par: 3	Average: -nan(ind)	The Boys Averages: -nan(ind)	Birdies: 0	Percentage: -nan(ind)%	Pars: 0	Percentage: -nan(ind)%
+Hole: 18		Par: 3	Average: -nan(ind)	The Boys Averages: -nan(ind)	Birdies: 0	Percentage: -nan(ind)%	Pars: 0	Percentage: -nan(ind)%
+
+Course: sangdale
+Rounds Played: 21	Par: 62		Personal Best: 70(+8)Personal Average: 73.4	The Boys Best: 62(0)The Boys Average: 72.4
+
+Hole: 1		Par: 3	Average: 3.67	The Boys Averages: 3.83	Birdies: 4	Percentage: 19%	Pars: 6	Percentage: 28.6%
+Hole: 2		Par: 3	Average: 3	The Boys Averages: 3.19	Birdies: 4	Percentage: 19%	Pars: 13	Percentage: 61.9%
+Hole: 3		Par: 5	Average: 5.71	The Boys Averages: 5.19	Birdies: 2	Percentage: 9.52%	Pars: 6	Percentage: 28.6%
+Hole: 4		Par: 3	Average: 4.09	The Boys Averages: 4.04	Birdies: 0	Percentage: 0%	Pars: 6	Percentage: 28.6%
+Hole: 5		Par: 3	Average: 3.52	The Boys Averages: 3.6	Birdies: 1	Percentage: 4.76%	Pars: 10	Percentage: 47.6%
+Hole: 6		Par: 3	Average: 3.62	The Boys Averages: 3.78	Birdies: 1	Percentage: 4.76%	Pars: 9	Percentage: 42.9%
+Hole: 7		Par: 3	Average: 4.38	The Boys Averages: 4.17	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 4.76%
+Hole: 8		Par: 4	Average: 4	The Boys Averages: 4.07	Birdies: 3	Percentage: 14.3%	Pars: 15	Percentage: 71.4%
+Hole: 9		Par: 3	Average: 3.6	The Boys Averages: 3.72	Birdies: 0	Percentage: 0%	Pars: 9	Percentage: 45%
+Hole: 10		Par: 3	Average: 4.4	The Boys Averages: 4.21	Birdies: 0	Percentage: 0%	Pars: 2	Percentage: 10%
+Hole: 11		Par: 4	Average: 4.8	The Boys Averages: 4.65	Birdies: 1	Percentage: 5%	Pars: 6	Percentage: 30%
+Hole: 12		Par: 3	Average: 3.3	The Boys Averages: 3.36	Birdies: 1	Percentage: 5%	Pars: 13	Percentage: 65%
+Hole: 13		Par: 3	Average: 3.4	The Boys Averages: 3.29	Birdies: 1	Percentage: 5%	Pars: 11	Percentage: 55%
+Hole: 14		Par: 3	Average: 3.55	The Boys Averages: 3.38	Birdies: 0	Percentage: 0%	Pars: 11	Percentage: 55%
+Hole: 15		Par: 4	Average: 4.68	The Boys Averages: 4.51	Birdies: 3	Percentage: 15.8%	Pars: 2	Percentage: 10.5%
+Hole: 16		Par: 4	Average: 4.16	The Boys Averages: 4.21	Birdies: 2	Percentage: 10.5%	Pars: 12	Percentage: 63.2%
+Hole: 17		Par: 3	Average: 4.11	The Boys Averages: 3.97	Birdies: 0	Percentage: 0%	Pars: 3	Percentage: 15.8%
+Hole: 18		Par: 5	Average: 5.42	The Boys Averages: 5.18	Birdies: 0	Percentage: 0%	Pars: 13	Percentage: 68.4%
+
+Course: tillsonburg
+Rounds Played: 1	Par: 54		Personal Best: 68(+14)Personal Average: 68	The Boys Best: 65(+11)The Boys Average: 66.5
+
+Hole: 1		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 2		Par: 3	Average: 4	The Boys Averages: 3	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 3		Par: 3	Average: 5	The Boys Averages: 5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 4		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 5		Par: 3	Average: 4	The Boys Averages: 3.5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 6		Par: 3	Average: 3	The Boys Averages: 3	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 7		Par: 3	Average: 3	The Boys Averages: 3.5	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 8		Par: 3	Average: 4	The Boys Averages: 3.5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 9		Par: 3	Average: 4	The Boys Averages: 3.5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 10		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 11		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 12		Par: 3	Average: 3	The Boys Averages: 4.5	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 13		Par: 3	Average: 4	The Boys Averages: 3.5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 14		Par: 3	Average: 4	The Boys Averages: 4.5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 15		Par: 3	Average: 3	The Boys Averages: 3	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 16		Par: 3	Average: 4	The Boys Averages: 3.5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 17		Par: 3	Average: 4	The Boys Averages: 3.5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 18		Par: 3	Average: 3	The Boys Averages: 3	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+
+Course: vabarrie
+Rounds Played: 1	Par: 48		Personal Best: 61(+13)Personal Average: 61	The Boys Best: 55(+7)The Boys Average: 61.7
+
+Hole: 1		Par: 3	Average: 3	The Boys Averages: 3.67	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 2		Par: 3	Average: 5	The Boys Averages: 4.67	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 3		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 4		Par: 3	Average: 4	The Boys Averages: 3.67	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 5		Par: 3	Average: 3	The Boys Averages: 3.33	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 6		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 7		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 8		Par: 3	Average: 3	The Boys Averages: 3.67	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 9		Par: 3	Average: 3	The Boys Averages: 3.33	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 10		Par: 3	Average: 5	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 11		Par: 3	Average: 4	The Boys Averages: 3.67	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 12		Par: 3	Average: 4	The Boys Averages: 4.33	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 13		Par: 3	Average: 3	The Boys Averages: 3.67	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 14		Par: 3	Average: 4	The Boys Averages: 3	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 15		Par: 3	Average: 4	The Boys Averages: 3.67	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 16		Par: 3	Average: 4	The Boys Averages: 5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+
+Course: viamede
+Rounds Played: 1	Par: 59		Personal Best: 86(+27)Personal Average: 86	The Boys Best: 86(+27)The Boys Average: 86
+
+Hole: 1		Par: 3	Average: 5	The Boys Averages: 5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 2		Par: 4	Average: 6	The Boys Averages: 6	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 3		Par: 3	Average: 2	The Boys Averages: 2	Birdies: 1	Percentage: 100%	Pars: 0	Percentage: 0%
+Hole: 4		Par: 3	Average: 3	The Boys Averages: 3	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 5		Par: 3	Average: 7	The Boys Averages: 7	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 6		Par: 3	Average: 5	The Boys Averages: 5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 7		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 8		Par: 3	Average: 6	The Boys Averages: 6	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 9		Par: 4	Average: 5	The Boys Averages: 5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 10		Par: 4	Average: 5	The Boys Averages: 5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 11		Par: 3	Average: 3	The Boys Averages: 3	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 12		Par: 3	Average: 5	The Boys Averages: 5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 13		Par: 3	Average: 3	The Boys Averages: 3	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 14		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 15		Par: 3	Average: 6	The Boys Averages: 6	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 16		Par: 5	Average: 7	The Boys Averages: 7	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 17		Par: 3	Average: 5	The Boys Averages: 5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 18		Par: 3	Average: 5	The Boys Averages: 5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+
+Course: waterworks
+Rounds Played: 2	Par: 54		Personal Best: 67(+13)Personal Average: 67.5	The Boys Best: 63(+9)The Boys Average: 69.6
+
+Hole: 1		Par: 3	Average: 3.5	The Boys Averages: 4.14	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 2		Par: 3	Average: 3.5	The Boys Averages: 3.86	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 3		Par: 3	Average: 4.5	The Boys Averages: 4.43	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 4		Par: 3	Average: 4	The Boys Averages: 3.57	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 5		Par: 3	Average: 5.5	The Boys Averages: 4.57	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 6		Par: 3	Average: 3	The Boys Averages: 3.57	Birdies: 1	Percentage: 50%	Pars: 0	Percentage: 0%
+Hole: 7		Par: 3	Average: 3	The Boys Averages: 3.43	Birdies: 0	Percentage: 0%	Pars: 2	Percentage: 100%
+Hole: 8		Par: 3	Average: 3.5	The Boys Averages: 3.57	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 9		Par: 3	Average: 3	The Boys Averages: 3.14	Birdies: 0	Percentage: 0%	Pars: 2	Percentage: 100%
+Hole: 10		Par: 3	Average: 3	The Boys Averages: 3.57	Birdies: 0	Percentage: 0%	Pars: 2	Percentage: 100%
+Hole: 11		Par: 3	Average: 4.5	The Boys Averages: 4.14	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 12		Par: 3	Average: 3	The Boys Averages: 3.57	Birdies: 0	Percentage: 0%	Pars: 2	Percentage: 100%
+Hole: 13		Par: 3	Average: 5	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 14		Par: 3	Average: 4.5	The Boys Averages: 5.29	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 15		Par: 3	Average: 3	The Boys Averages: 3.57	Birdies: 0	Percentage: 0%	Pars: 2	Percentage: 100%
+Hole: 16		Par: 3	Average: 3.5	The Boys Averages: 3.71	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 17		Par: 3	Average: 4	The Boys Averages: 3.43	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 18		Par: 3	Average: 3.5	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+
+Course: whiteSpruce
+Rounds Played: 2	Par: 60		Personal Best: 78(+18)Personal Average: 78.5	The Boys Best: 77(+17)The Boys Average: 78
+
+Hole: 1		Par: 3	Average: 3.5	The Boys Averages: 3.33	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 2		Par: 3	Average: 3.5	The Boys Averages: 3.33	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 3		Par: 3	Average: 4.5	The Boys Averages: 4.33	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 4		Par: 3	Average: 3	The Boys Averages: 3	Birdies: 0	Percentage: 0%	Pars: 2	Percentage: 100%
+Hole: 5		Par: 3	Average: 4.5	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 6		Par: 3	Average: 3.5	The Boys Averages: 3.33	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 7		Par: 3	Average: 4.5	The Boys Averages: 4.33	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 8		Par: 3	Average: 4.5	The Boys Averages: 4.33	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 9		Par: 3	Average: 5	The Boys Averages: 4.67	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 10		Par: 3	Average: 2.5	The Boys Averages: 3.67	Birdies: 1	Percentage: 50%	Pars: 1	Percentage: 50%
+Hole: 11		Par: 3	Average: 4	The Boys Averages: 3.67	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 12		Par: 3	Average: 4	The Boys Averages: 3.67	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 13		Par: 3	Average: 4	The Boys Averages: 5	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 14		Par: 3	Average: 3.5	The Boys Averages: 3.33	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 15		Par: 3	Average: 4	The Boys Averages: 3.67	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 16		Par: 3	Average: 4.5	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 17		Par: 3	Average: 4.5	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 18		Par: 3	Average: 3	The Boys Averages: 3.67	Birdies: 0	Percentage: 0%	Pars: 2	Percentage: 100%
+Hole: 19		Par: 3	Average: 3.5	The Boys Averages: 4.33	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 20		Par: 3	Average: 4.5	The Boys Averages: 4.33	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+
+
+
+Player: Tony
+Number of Rounds: 80
+
+Course: greenLane
+Rounds Played: 43	Par: 54		Personal Best: 55(+1)Personal Average: 65	The Boys Best: 55(+1)The Boys Average: 69
+
+Hole: 1		Par: 3	Average: 3.42	The Boys Averages: 3.53	Birdies: 6	Percentage: 14%	Pars: 20	Percentage: 46.5%
+Hole: 2		Par: 3	Average: 4.05	The Boys Averages: 4.4	Birdies: 2	Percentage: 4.65%	Pars: 9	Percentage: 20.9%
+Hole: 3		Par: 3	Average: 3.26	The Boys Averages: 3.47	Birdies: 4	Percentage: 9.3%	Pars: 26	Percentage: 60.5%
+Hole: 4		Par: 3	Average: 3.72	The Boys Averages: 4.13	Birdies: 2	Percentage: 4.65%	Pars: 15	Percentage: 34.9%
+Hole: 5		Par: 3	Average: 3.56	The Boys Averages: 3.67	Birdies: 1	Percentage: 2.33%	Pars: 23	Percentage: 53.5%
+Hole: 6		Par: 3	Average: 3.44	The Boys Averages: 3.63	Birdies: 5	Percentage: 11.6%	Pars: 19	Percentage: 44.2%
+Hole: 7		Par: 3	Average: 3.86	The Boys Averages: 4.26	Birdies: 1	Percentage: 2.33%	Pars: 13	Percentage: 30.2%
+Hole: 8		Par: 3	Average: 4.02	The Boys Averages: 4.41	Birdies: 0	Percentage: 0%	Pars: 13	Percentage: 30.2%
+Hole: 9		Par: 3	Average: 3.56	The Boys Averages: 3.91	Birdies: 0	Percentage: 0%	Pars: 25	Percentage: 58.1%
+Hole: 10		Par: 3	Average: 3.5	The Boys Averages: 3.72	Birdies: 3	Percentage: 7.14%	Pars: 24	Percentage: 57.1%
+Hole: 11		Par: 3	Average: 3.33	The Boys Averages: 3.57	Birdies: 3	Percentage: 7.14%	Pars: 26	Percentage: 61.9%
+Hole: 12		Par: 3	Average: 3.6	The Boys Averages: 3.53	Birdies: 7	Percentage: 16.7%	Pars: 16	Percentage: 38.1%
+Hole: 13		Par: 3	Average: 3.6	The Boys Averages: 3.66	Birdies: 3	Percentage: 7.14%	Pars: 17	Percentage: 40.5%
+Hole: 14		Par: 3	Average: 3.69	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 21	Percentage: 50%
+Hole: 15		Par: 3	Average: 3.14	The Boys Averages: 3.3	Birdies: 7	Percentage: 16.7%	Pars: 26	Percentage: 61.9%
+Hole: 16		Par: 3	Average: 4.17	The Boys Averages: 4.23	Birdies: 0	Percentage: 0%	Pars: 8	Percentage: 19%
+Hole: 17		Par: 3	Average: 3.5	The Boys Averages: 3.85	Birdies: 2	Percentage: 4.76%	Pars: 22	Percentage: 52.4%
+Hole: 18		Par: 3	Average: 3.62	The Boys Averages: 3.75	Birdies: 4	Percentage: 9.52%	Pars: 18	Percentage: 42.9%
+Course: aylmerSteenPark
+Rounds Played: 2	Par: 54		Personal Best: 64(+10)Personal Average: 65	The Boys Best: 64(+10)The Boys Average: 66.6
+
+Hole: 1		Par: 3	Average: 3	The Boys Averages: 3	Birdies: 0	Percentage: 0%	Pars: 2	Percentage: 100%
+Hole: 2		Par: 3	Average: 3.5	The Boys Averages: 3.4	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 3		Par: 3	Average: 5	The Boys Averages: 4.6	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 4		Par: 3	Average: 3	The Boys Averages: 3.2	Birdies: 0	Percentage: 0%	Pars: 2	Percentage: 100%
+Hole: 5		Par: 3	Average: 3	The Boys Averages: 3.4	Birdies: 0	Percentage: 0%	Pars: 2	Percentage: 100%
+Hole: 6		Par: 3	Average: 5	The Boys Averages: 5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 7		Par: 3	Average: 3	The Boys Averages: 3.4	Birdies: 1	Percentage: 50%	Pars: 0	Percentage: 0%
+Hole: 8		Par: 3	Average: 3.5	The Boys Averages: 3.6	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 9		Par: 3	Average: 3	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 2	Percentage: 100%
+Hole: 10		Par: 3	Average: 4	The Boys Averages: 3.6	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 11		Par: 3	Average: 4	The Boys Averages: 4.2	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 12		Par: 3	Average: 3.5	The Boys Averages: 3.4	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 13		Par: 3	Average: 3.5	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 14		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 15		Par: 3	Average: 4.5	The Boys Averages: 3.6	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 16		Par: 3	Average: 3	The Boys Averages: 3.4	Birdies: 0	Percentage: 0%	Pars: 2	Percentage: 100%
+Hole: 17		Par: 3	Average: 3.5	The Boys Averages: 3.8	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 18		Par: 3	Average: 3	The Boys Averages: 3	Birdies: 0	Percentage: 0%	Pars: 2	Percentage: 100%
+
+Course: bronteCreekRed
+Rounds Played: 1	Par: 57		Personal Best: 69(+12)Personal Average: 69	The Boys Best: 69(+12)The Boys Average: 72
+
+Hole: 1		Par: 3	Average: 4	The Boys Averages: 4.5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 2		Par: 3	Average: 3	The Boys Averages: 3.5	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 3		Par: 3	Average: 3	The Boys Averages: 3.5	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 4		Par: 3	Average: 3	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 5		Par: 3	Average: 3	The Boys Averages: 3	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 6		Par: 3	Average: 3	The Boys Averages: 3.5	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 7		Par: 4	Average: 4	The Boys Averages: 4.5	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 8		Par: 3	Average: 3	The Boys Averages: 3.5	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 9		Par: 3	Average: 5	The Boys Averages: 4.5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 10		Par: 3	Average: 3	The Boys Averages: 3.5	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 11		Par: 3	Average: 6	The Boys Averages: 4.5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 12		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 13		Par: 3	Average: 6	The Boys Averages: 4.5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 14		Par: 3	Average: 4	The Boys Averages: 4.5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 15		Par: 4	Average: 3	The Boys Averages: 4	Birdies: 1	Percentage: 100%	Pars: 0	Percentage: 0%
+Hole: 16		Par: 4	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 17		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 18		Par: 3	Average: 4	The Boys Averages: 4.5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+
+Course: bronteCreekYellow
+Rounds Played: 1	Par: 54		Personal Best: 60(+6)Personal Average: 60	The Boys Best: 60(+6)The Boys Average: 60
+
+Hole: 1		Par: 3	Average: 3	The Boys Averages: 3.67	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 2		Par: 3	Average: 4	The Boys Averages: 3.33	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 3		Par: 3	Average: 3	The Boys Averages: 3.67	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 4		Par: 3	Average: 4	The Boys Averages: 2.67	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 5		Par: 3	Average: 3	The Boys Averages: 3.33	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 6		Par: 3	Average: 4	The Boys Averages: 3	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 7		Par: 3	Average: 3	The Boys Averages: 3	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 8		Par: 3	Average: 3	The Boys Averages: 3	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 9		Par: 3	Average: 2	The Boys Averages: 3	Birdies: 1	Percentage: 100%	Pars: 0	Percentage: 0%
+Hole: 10		Par: 3	Average: 3	The Boys Averages: 3.33	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 11		Par: 3	Average: 3	The Boys Averages: 3	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 12		Par: 3	Average: 3	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 13		Par: 3	Average: 4	The Boys Averages: 3.67	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 14		Par: 3	Average: 3	The Boys Averages: 3.33	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 15		Par: 3	Average: 5	The Boys Averages: 3.67	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 16		Par: 3	Average: 3	The Boys Averages: 3.33	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 17		Par: 3	Average: 4	The Boys Averages: 3.67	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 18		Par: 3	Average: 3	The Boys Averages: 3.33	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+
+Course: christieLake
+Rounds Played: 3	Par: 58		Personal Best: 73(+15)Personal Average: 81	The Boys Best: 73(+15)The Boys Average: 81.3
+
+Hole: 1		Par: 3	Average: 4.67	The Boys Averages: 4.67	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 2		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 2	Percentage: 66.7%
+Hole: 3		Par: 3	Average: 3.67	The Boys Averages: 4.33	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 33.3%
+Hole: 4		Par: 4	Average: 4.67	The Boys Averages: 4.67	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 33.3%
+Hole: 5		Par: 4	Average: 6.67	The Boys Averages: 6.33	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 33.3%
+Hole: 6		Par: 3	Average: 4.33	The Boys Averages: 4.44	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 7		Par: 3	Average: 3	The Boys Averages: 3.56	Birdies: 0	Percentage: 0%	Pars: 3	Percentage: 100%
+Hole: 8		Par: 3	Average: 4	The Boys Averages: 3.89	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 33.3%
+Hole: 9		Par: 3	Average: 4.33	The Boys Averages: 4.67	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 10		Par: 3	Average: 4.67	The Boys Averages: 4.44	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 11		Par: 3	Average: 4.33	The Boys Averages: 5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 12		Par: 3	Average: 5	The Boys Averages: 4.22	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 13		Par: 3	Average: 3.67	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 33.3%
+Hole: 14		Par: 3	Average: 3.33	The Boys Averages: 3.78	Birdies: 0	Percentage: 0%	Pars: 2	Percentage: 66.7%
+Hole: 15		Par: 3	Average: 4.33	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 33.3%
+Hole: 16		Par: 3	Average: 4.33	The Boys Averages: 3.78	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 17		Par: 4	Average: 7	The Boys Averages: 6.56	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 18		Par: 4	Average: 5	The Boys Averages: 5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+
+Course: georgetown
+Rounds Played: 1	Par: 28		Personal Best: 38(+10)Personal Average: 38	The Boys Best: 36(+8)The Boys Average: 37
+
+Hole: 1		Par: 3	Average: 3	The Boys Averages: 3	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 2		Par: 3	Average: 4	The Boys Averages: 3.5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 3		Par: 3	Average: 5	The Boys Averages: 5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 4		Par: 3	Average: 5	The Boys Averages: 5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 5		Par: 3	Average: 4	The Boys Averages: 4.5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 6		Par: 3	Average: 4	The Boys Averages: 3.5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 7		Par: 4	Average: 5	The Boys Averages: 4.5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 8		Par: 3	Average: 3	The Boys Averages: 3.5	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 9		Par: 3	Average: 5	The Boys Averages: 4.5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+
+Course: laFortune
+Rounds Played: 3	Par: 58		Personal Best: 68(+10)Personal Average: 83.8	The Boys Best: 68(+10)The Boys Average: 89.1
+
+Hole: 1		Par: 3	Average: 4.67	The Boys Averages: 5.11	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 33.3%
+Hole: 2		Par: 3	Average: 4	The Boys Averages: 4.44	Birdies: 0	Percentage: 0%	Pars: 2	Percentage: 66.7%
+Hole: 3		Par: 3	Average: 5.33	The Boys Averages: 5.22	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 33.3%
+Hole: 4		Par: 3	Average: 4.33	The Boys Averages: 4.67	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 33.3%
+Hole: 5		Par: 3	Average: 4.67	The Boys Averages: 5.33	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 6		Par: 3	Average: 4	The Boys Averages: 4.11	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 7		Par: 3	Average: 6	The Boys Averages: 6.33	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 8		Par: 3	Average: 5	The Boys Averages: 4.78	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 9		Par: 3	Average: 5	The Boys Averages: 6.11	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 10		Par: 3	Average: 4	The Boys Averages: 4.56	Birdies: 0	Percentage: 0%	Pars: 2	Percentage: 66.7%
+Hole: 11		Par: 4	Average: 5	The Boys Averages: 4.78	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 33.3%
+Hole: 12		Par: 3	Average: 3	The Boys Averages: 3.56	Birdies: 1	Percentage: 33.3%	Pars: 1	Percentage: 33.3%
+Hole: 13		Par: 3	Average: 4	The Boys Averages: 4.11	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 14		Par: 3	Average: 3.67	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 33.3%
+Hole: 15		Par: 3	Average: 4.67	The Boys Averages: 5.67	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 33.3%
+Hole: 16		Par: 3	Average: 3.67	The Boys Averages: 3.67	Birdies: 0	Percentage: 0%	Pars: 2	Percentage: 66.7%
+Hole: 17		Par: 3	Average: 4.33	The Boys Averages: 4.11	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 33.3%
+Hole: 18		Par: 3	Average: 4	The Boys Averages: 4.11	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 33.3%
+Hole: 19		Par: 3	Average: 4.5	The Boys Averages: 4.43	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+
+Course: mohawk
+Rounds Played: 2	Par: 55		Personal Best: 60(+5)Personal Average: 66.5	The Boys Best: 60(+5)The Boys Average: 66.8
+
+Hole: 1		Par: 3	Average: 4.5	The Boys Averages: 4.2	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 2		Par: 3	Average: 3	The Boys Averages: 3.4	Birdies: 1	Percentage: 50%	Pars: 0	Percentage: 0%
+Hole: 3		Par: 3	Average: 3	The Boys Averages: 3.4	Birdies: 0	Percentage: 0%	Pars: 2	Percentage: 100%
+Hole: 4		Par: 4	Average: 4	The Boys Averages: 4.2	Birdies: 1	Percentage: 50%	Pars: 0	Percentage: 0%
+Hole: 5		Par: 3	Average: 3.5	The Boys Averages: 3.4	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 6		Par: 3	Average: 4	The Boys Averages: 3.8	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 7		Par: 3	Average: 3.5	The Boys Averages: 3.8	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 8		Par: 3	Average: 4	The Boys Averages: 3.6	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 9		Par: 3	Average: 3.5	The Boys Averages: 3.6	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 10		Par: 3	Average: 5	The Boys Averages: 4.8	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 11		Par: 3	Average: 3.5	The Boys Averages: 3	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 12		Par: 3	Average: 4	The Boys Averages: 4.4	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 13		Par: 3	Average: 4	The Boys Averages: 3.8	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 14		Par: 3	Average: 3	The Boys Averages: 3.6	Birdies: 0	Percentage: 0%	Pars: 2	Percentage: 100%
+Hole: 15		Par: 3	Average: 3	The Boys Averages: 3.6	Birdies: 1	Percentage: 50%	Pars: 0	Percentage: 0%
+Hole: 16		Par: 3	Average: 3	The Boys Averages: 2.6	Birdies: 0	Percentage: 0%	Pars: 2	Percentage: 100%
+Hole: 17		Par: 3	Average: 4	The Boys Averages: 3.6	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 18		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+
+Course: pittock
+Rounds Played: 1	Par: 55		Personal Best: 81(+26)Personal Average: 81	The Boys Best: 75(+20)The Boys Average: 77.3
+
+Hole: 1		Par: 3	Average: 3	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 2		Par: 3	Average: 6	The Boys Averages: 4.67	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 3		Par: 3	Average: 3	The Boys Averages: 3.67	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 4		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 5		Par: 3	Average: 3	The Boys Averages: 3	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 6		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 7		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 8		Par: 3	Average: 4	The Boys Averages: 3.67	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 9		Par: 3	Average: 4	The Boys Averages: 4.67	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 10		Par: 4	Average: 6	The Boys Averages: 6.33	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 11		Par: 3	Average: 5	The Boys Averages: 4.67	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 12		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 13		Par: 3	Average: 6	The Boys Averages: 4.67	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 14		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 15		Par: 3	Average: 6	The Boys Averages: 5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 16		Par: 3	Average: 4	The Boys Averages: 4.33	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 17		Par: 3	Average: 5	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 18		Par: 3	Average: 6	The Boys Averages: 4.67	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+
+Course: riversEdge
+Rounds Played: 1	Par: 86		Personal Best: 897(+811)Personal Average: -nan(ind)	The Boys Best: 897(+811)The Boys Average: -nan(ind)
+
+Hole: 1		Par: 4	Average: 7	The Boys Averages: 6.5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 2		Par: 3	Average: 6	The Boys Averages: 5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 3		Par: 4	Average: 7	The Boys Averages: 6	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 4		Par: 4	Average: 5	The Boys Averages: 5.5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 5		Par: 3	Average: 4	The Boys Averages: 3.5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 6		Par: 3	Average: 5	The Boys Averages: 5.5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 7		Par: 3	Average: 5	The Boys Averages: 4.5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 8		Par: 3	Average: 4	The Boys Averages: 3.5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 9		Par: 3	Average: 4	The Boys Averages: 4.5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 10		Par: 3	Average: 5	The Boys Averages: 5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 11		Par: 3	Average: 6	The Boys Averages: 5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 12		Par: 3	Average: 5	The Boys Averages: 5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 13		Par: 3	Average: 6	The Boys Averages: 6	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 14		Par: 4	Average: 5	The Boys Averages: 6	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 15		Par: 3	Average: 6	The Boys Averages: 5.5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 16		Par: 3	Average: 5	The Boys Averages: 5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 17		Par: 3	Average: 5	The Boys Averages: 5.5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 18		Par: 3	Average: 4	The Boys Averages: 4.5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 19		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 20		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 21		Par: 3	Average: 6	The Boys Averages: 5.5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 22		Par: 4	Average: 7	The Boys Averages: 6	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 23		Par: 3	Average: 4	The Boys Averages: 4.5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 24		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 25		Par: 3	Average: 5	The Boys Averages: 5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 26		Par: 3	Average: 4	The Boys Averages: 4.5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 27		Par: 3	Average: -nan(ind)	The Boys Averages: -nan(ind)	Birdies: 0	Percentage: -nan(ind)%	Pars: 0	Percentage: -nan(ind)%
+
+Course: sangdale
+Rounds Played: 17	Par: 62		Personal Best: 62(0)Personal Average: 67.8	The Boys Best: 62(0)The Boys Average: 72.4
+
+Hole: 1		Par: 3	Average: 3.65	The Boys Averages: 3.83	Birdies: 1	Percentage: 5.88%	Pars: 9	Percentage: 52.9%
+Hole: 2		Par: 3	Average: 3.06	The Boys Averages: 3.19	Birdies: 2	Percentage: 11.8%	Pars: 13	Percentage: 76.5%
+Hole: 3		Par: 5	Average: 4.47	The Boys Averages: 5.19	Birdies: 8	Percentage: 47.1%	Pars: 8	Percentage: 47.1%
+Hole: 4		Par: 3	Average: 3.53	The Boys Averages: 4.04	Birdies: 0	Percentage: 0%	Pars: 9	Percentage: 52.9%
+Hole: 5		Par: 3	Average: 3.41	The Boys Averages: 3.6	Birdies: 0	Percentage: 0%	Pars: 11	Percentage: 64.7%
+Hole: 6		Par: 3	Average: 3.59	The Boys Averages: 3.78	Birdies: 1	Percentage: 5.88%	Pars: 8	Percentage: 47.1%
+Hole: 7		Par: 3	Average: 3.71	The Boys Averages: 4.17	Birdies: 0	Percentage: 0%	Pars: 6	Percentage: 35.3%
+Hole: 8		Par: 4	Average: 4.12	The Boys Averages: 4.07	Birdies: 4	Percentage: 23.5%	Pars: 7	Percentage: 41.2%
+Hole: 9		Par: 3	Average: 3.56	The Boys Averages: 3.72	Birdies: 0	Percentage: 0%	Pars: 7	Percentage: 43.8%
+Hole: 10		Par: 3	Average: 4	The Boys Averages: 4.21	Birdies: 0	Percentage: 0%	Pars: 5	Percentage: 31.3%
+Hole: 11		Par: 4	Average: 4.06	The Boys Averages: 4.65	Birdies: 2	Percentage: 12.5%	Pars: 11	Percentage: 68.8%
+Hole: 12		Par: 3	Average: 3.13	The Boys Averages: 3.36	Birdies: 1	Percentage: 6.25%	Pars: 12	Percentage: 75%
+Hole: 13		Par: 3	Average: 3.06	The Boys Averages: 3.29	Birdies: 3	Percentage: 18.8%	Pars: 9	Percentage: 56.3%
+Hole: 14		Par: 3	Average: 3.19	The Boys Averages: 3.38	Birdies: 1	Percentage: 6.25%	Pars: 11	Percentage: 68.8%
+Hole: 15		Par: 4	Average: 4.25	The Boys Averages: 4.51	Birdies: 4	Percentage: 25%	Pars: 5	Percentage: 31.3%
+Hole: 16		Par: 4	Average: 4.25	The Boys Averages: 4.21	Birdies: 5	Percentage: 31.3%	Pars: 5	Percentage: 31.3%
+Hole: 17		Par: 3	Average: 3.8	The Boys Averages: 3.97	Birdies: 0	Percentage: 0%	Pars: 6	Percentage: 40%
+Hole: 18		Par: 5	Average: 5	The Boys Averages: 5.18	Birdies: 6	Percentage: 40%	Pars: 5	Percentage: 33.3%
+
+Course: tillsonburg
+Rounds Played: 1	Par: 54		Personal Best: 65(+11)Personal Average: 65	The Boys Best: 65(+11)The Boys Average: 66.5
+
+Hole: 1		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 2		Par: 3	Average: 2	The Boys Averages: 3	Birdies: 1	Percentage: 100%	Pars: 0	Percentage: 0%
+Hole: 3		Par: 3	Average: 5	The Boys Averages: 5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 4		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 5		Par: 3	Average: 3	The Boys Averages: 3.5	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 6		Par: 3	Average: 3	The Boys Averages: 3	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 7		Par: 3	Average: 4	The Boys Averages: 3.5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 8		Par: 3	Average: 3	The Boys Averages: 3.5	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 9		Par: 3	Average: 3	The Boys Averages: 3.5	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 10		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 11		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 12		Par: 3	Average: 6	The Boys Averages: 4.5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 13		Par: 3	Average: 3	The Boys Averages: 3.5	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 14		Par: 3	Average: 5	The Boys Averages: 4.5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 15		Par: 3	Average: 3	The Boys Averages: 3	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 16		Par: 3	Average: 3	The Boys Averages: 3.5	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 17		Par: 3	Average: 3	The Boys Averages: 3.5	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 18		Par: 3	Average: 3	The Boys Averages: 3	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+
+Course: vabarrie
+Rounds Played: 1	Par: 48		Personal Best: 55(+7)Personal Average: 55	The Boys Best: 55(+7)The Boys Average: 61.7
+
+Hole: 1		Par: 3	Average: 3	The Boys Averages: 3.67	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 2		Par: 3	Average: 4	The Boys Averages: 4.67	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 3		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 4		Par: 3	Average: 3	The Boys Averages: 3.67	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 5		Par: 3	Average: 3	The Boys Averages: 3.33	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 6		Par: 3	Average: 3	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 7		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 8		Par: 3	Average: 4	The Boys Averages: 3.67	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 9		Par: 3	Average: 4	The Boys Averages: 3.33	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 10		Par: 3	Average: 3	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 11		Par: 3	Average: 3	The Boys Averages: 3.67	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 12		Par: 3	Average: 4	The Boys Averages: 4.33	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 13		Par: 3	Average: 3	The Boys Averages: 3.67	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 14		Par: 3	Average: 2	The Boys Averages: 3	Birdies: 1	Percentage: 100%	Pars: 0	Percentage: 0%
+Hole: 15		Par: 3	Average: 3	The Boys Averages: 3.67	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 16		Par: 3	Average: 5	The Boys Averages: 5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+
+Course: waterworks
+Rounds Played: 2	Par: 54		Personal Best: 63(+9)Personal Average: 64	The Boys Best: 63(+9)The Boys Average: 69.6
+
+Hole: 1		Par: 3	Average: 4	The Boys Averages: 4.14	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 2		Par: 3	Average: 3.5	The Boys Averages: 3.86	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 3		Par: 3	Average: 4	The Boys Averages: 4.43	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 4		Par: 3	Average: 3	The Boys Averages: 3.57	Birdies: 0	Percentage: 0%	Pars: 2	Percentage: 100%
+Hole: 5		Par: 3	Average: 3.5	The Boys Averages: 4.57	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 6		Par: 3	Average: 4	The Boys Averages: 3.57	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 7		Par: 3	Average: 3	The Boys Averages: 3.43	Birdies: 0	Percentage: 0%	Pars: 2	Percentage: 100%
+Hole: 8		Par: 3	Average: 3.5	The Boys Averages: 3.57	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 9		Par: 3	Average: 3	The Boys Averages: 3.14	Birdies: 0	Percentage: 0%	Pars: 2	Percentage: 100%
+Hole: 10		Par: 3	Average: 4	The Boys Averages: 3.57	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 11		Par: 3	Average: 3.5	The Boys Averages: 4.14	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 12		Par: 3	Average: 3	The Boys Averages: 3.57	Birdies: 0	Percentage: 0%	Pars: 2	Percentage: 100%
+Hole: 13		Par: 3	Average: 3.5	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 14		Par: 3	Average: 5	The Boys Averages: 5.29	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 15		Par: 3	Average: 3.5	The Boys Averages: 3.57	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 16		Par: 3	Average: 4	The Boys Averages: 3.71	Birdies: 1	Percentage: 50%	Pars: 0	Percentage: 0%
+Hole: 17		Par: 3	Average: 3	The Boys Averages: 3.43	Birdies: 0	Percentage: 0%	Pars: 2	Percentage: 100%
+Hole: 18		Par: 3	Average: 3	The Boys Averages: 4	Birdies: 1	Percentage: 50%	Pars: 0	Percentage: 0%
+
+Course: whiteSpruce
+Rounds Played: 1	Par: 60		Personal Best: 77(+17)Personal Average: 77	The Boys Best: 77(+17)The Boys Average: 78
+
+Hole: 1		Par: 3	Average: 3	The Boys Averages: 3.33	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 2		Par: 3	Average: 3	The Boys Averages: 3.33	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 3		Par: 3	Average: 4	The Boys Averages: 4.33	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 4		Par: 3	Average: 3	The Boys Averages: 3	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 5		Par: 3	Average: 3	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 6		Par: 3	Average: 3	The Boys Averages: 3.33	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 7		Par: 3	Average: 4	The Boys Averages: 4.33	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 8		Par: 3	Average: 4	The Boys Averages: 4.33	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 9		Par: 3	Average: 4	The Boys Averages: 4.67	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 10		Par: 3	Average: 6	The Boys Averages: 3.67	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 11		Par: 3	Average: 3	The Boys Averages: 3.67	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 12		Par: 3	Average: 3	The Boys Averages: 3.67	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 13		Par: 3	Average: 7	The Boys Averages: 5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 14		Par: 3	Average: 3	The Boys Averages: 3.33	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 15		Par: 3	Average: 3	The Boys Averages: 3.67	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 16		Par: 3	Average: 3	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 17		Par: 3	Average: 3	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 18		Par: 3	Average: 5	The Boys Averages: 3.67	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 19		Par: 3	Average: 6	The Boys Averages: 4.33	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 20		Par: 3	Average: 4	The Boys Averages: 4.33	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+
+
+
+Player: Phil
+Number of Rounds: 19
+
+Course: greenLane
+Rounds Played: 14	Par: 54		Personal Best: 61(+7)Personal Average: 70.1	The Boys Best: 55(+1)The Boys Average: 69
+
+Hole: 1		Par: 3	Average: 3.86	The Boys Averages: 3.53	Birdies: 0	Percentage: 0%	Pars: 4	Percentage: 28.6%
+Hole: 2		Par: 3	Average: 4.21	The Boys Averages: 4.4	Birdies: 0	Percentage: 0%	Pars: 2	Percentage: 14.3%
+Hole: 3		Par: 3	Average: 3.64	The Boys Averages: 3.47	Birdies: 1	Percentage: 7.14%	Pars: 5	Percentage: 35.7%
+Hole: 4		Par: 3	Average: 4.36	The Boys Averages: 4.13	Birdies: 0	Percentage: 0%	Pars: 3	Percentage: 21.4%
+Hole: 5		Par: 3	Average: 3.71	The Boys Averages: 3.67	Birdies: 1	Percentage: 7.14%	Pars: 3	Percentage: 21.4%
+Hole: 6		Par: 3	Average: 4.14	The Boys Averages: 3.63	Birdies: 1	Percentage: 7.14%	Pars: 2	Percentage: 14.3%
+Hole: 7		Par: 3	Average: 4.14	The Boys Averages: 4.26	Birdies: 0	Percentage: 0%	Pars: 4	Percentage: 28.6%
+Hole: 8		Par: 3	Average: 4.36	The Boys Averages: 4.41	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 7.14%
+Hole: 9		Par: 3	Average: 4	The Boys Averages: 3.91	Birdies: 0	Percentage: 0%	Pars: 3	Percentage: 21.4%
+Hole: 10		Par: 3	Average: 3.93	The Boys Averages: 3.72	Birdies: 0	Percentage: 0%	Pars: 5	Percentage: 35.7%
+Hole: 11		Par: 3	Average: 3.57	The Boys Averages: 3.57	Birdies: 0	Percentage: 0%	Pars: 8	Percentage: 57.1%
+Hole: 12		Par: 3	Average: 3.07	The Boys Averages: 3.53	Birdies: 0	Percentage: 0%	Pars: 13	Percentage: 92.9%
+Hole: 13		Par: 3	Average: 3.57	The Boys Averages: 3.66	Birdies: 1	Percentage: 7.14%	Pars: 5	Percentage: 35.7%
+Hole: 14		Par: 3	Average: 4.14	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 2	Percentage: 14.3%
+Hole: 15		Par: 3	Average: 3.43	The Boys Averages: 3.3	Birdies: 0	Percentage: 0%	Pars: 11	Percentage: 78.6%
+Hole: 16		Par: 3	Average: 4.14	The Boys Averages: 4.23	Birdies: 0	Percentage: 0%	Pars: 3	Percentage: 21.4%
+Hole: 17		Par: 3	Average: 3.93	The Boys Averages: 3.85	Birdies: 0	Percentage: 0%	Pars: 5	Percentage: 35.7%
+Hole: 18		Par: 3	Average: 3.93	The Boys Averages: 3.75	Birdies: 0	Percentage: 0%	Pars: 6	Percentage: 42.9%
+Course: aylmerSteenPark
+Rounds Played: 1	Par: 54		Personal Best: 70(+16)Personal Average: 70	The Boys Best: 64(+10)The Boys Average: 66.6
+
+Hole: 1		Par: 3	Average: 3	The Boys Averages: 3	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 2		Par: 3	Average: 4	The Boys Averages: 3.4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 3		Par: 3	Average: 4	The Boys Averages: 4.6	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 4		Par: 3	Average: 3	The Boys Averages: 3.2	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 5		Par: 3	Average: 4	The Boys Averages: 3.4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 6		Par: 3	Average: 6	The Boys Averages: 5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 7		Par: 3	Average: 3	The Boys Averages: 3.4	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 8		Par: 3	Average: 4	The Boys Averages: 3.6	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 9		Par: 3	Average: 6	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 10		Par: 3	Average: 3	The Boys Averages: 3.6	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 11		Par: 3	Average: 5	The Boys Averages: 4.2	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 12		Par: 3	Average: 3	The Boys Averages: 3.4	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 13		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 14		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 15		Par: 3	Average: 2	The Boys Averages: 3.6	Birdies: 1	Percentage: 100%	Pars: 0	Percentage: 0%
+Hole: 16		Par: 3	Average: 4	The Boys Averages: 3.4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 17		Par: 3	Average: 4	The Boys Averages: 3.8	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 18		Par: 3	Average: 4	The Boys Averages: 3	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+
+Course: sangdale
+Rounds Played: 2	Par: 62		Personal Best: 71(+9)Personal Average: 71.5	The Boys Best: 62(0)The Boys Average: 72.4
+
+Hole: 1		Par: 3	Average: 3.5	The Boys Averages: 3.83	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 2		Par: 3	Average: 3	The Boys Averages: 3.19	Birdies: 0	Percentage: 0%	Pars: 2	Percentage: 100%
+Hole: 3		Par: 5	Average: 6	The Boys Averages: 5.19	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 4		Par: 3	Average: 4.5	The Boys Averages: 4.04	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 5		Par: 3	Average: 3	The Boys Averages: 3.6	Birdies: 0	Percentage: 0%	Pars: 2	Percentage: 100%
+Hole: 6		Par: 3	Average: 4	The Boys Averages: 3.78	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 7		Par: 3	Average: 3.5	The Boys Averages: 4.17	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 8		Par: 4	Average: 3	The Boys Averages: 4.07	Birdies: 1	Percentage: 100%	Pars: 0	Percentage: 0%
+Hole: 9		Par: 3	Average: 4	The Boys Averages: 3.72	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 10		Par: 3	Average: 4	The Boys Averages: 4.21	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 11		Par: 4	Average: 6	The Boys Averages: 4.65	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 12		Par: 3	Average: 4	The Boys Averages: 3.36	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 13		Par: 3	Average: 3	The Boys Averages: 3.29	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 14		Par: 3	Average: 3	The Boys Averages: 3.38	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 15		Par: 4	Average: 5	The Boys Averages: 4.51	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 16		Par: 4	Average: 4	The Boys Averages: 4.21	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 17		Par: 3	Average: 4	The Boys Averages: 3.97	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 18		Par: 5	Average: 4	The Boys Averages: 5.18	Birdies: 1	Percentage: 100%	Pars: 0	Percentage: 0%
+
+Course: waterworks
+Rounds Played: 2	Par: 54		Personal Best: 72(+18)Personal Average: 73	The Boys Best: 63(+9)The Boys Average: 69.6
+
+Hole: 1		Par: 3	Average: 5	The Boys Averages: 4.14	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 2		Par: 3	Average: 4.5	The Boys Averages: 3.86	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 3		Par: 3	Average: 4.5	The Boys Averages: 4.43	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 4		Par: 3	Average: 4	The Boys Averages: 3.57	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 5		Par: 3	Average: 5	The Boys Averages: 4.57	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 6		Par: 3	Average: 3.5	The Boys Averages: 3.57	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 7		Par: 3	Average: 4	The Boys Averages: 3.43	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 8		Par: 3	Average: 3.5	The Boys Averages: 3.57	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 9		Par: 3	Average: 3	The Boys Averages: 3.14	Birdies: 0	Percentage: 0%	Pars: 2	Percentage: 100%
+Hole: 10		Par: 3	Average: 3.5	The Boys Averages: 3.57	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 11		Par: 3	Average: 3.5	The Boys Averages: 4.14	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 12		Par: 3	Average: 4.5	The Boys Averages: 3.57	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 13		Par: 3	Average: 3.5	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 14		Par: 3	Average: 5.5	The Boys Averages: 5.29	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 15		Par: 3	Average: 4	The Boys Averages: 3.57	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 16		Par: 3	Average: 3.5	The Boys Averages: 3.71	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 17		Par: 3	Average: 3	The Boys Averages: 3.43	Birdies: 0	Percentage: 0%	Pars: 2	Percentage: 100%
+Hole: 18		Par: 3	Average: 5	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+
+
+
+Player: Duo
+Number of Rounds: 3
+
+Course: greenLane
+Rounds Played: 2	Par: 54		Personal Best: 53(-1)Personal Average: 53	The Boys Best: 55(+1)The Boys Average: 69
+
+Hole: 1		Par: 3	Average: 3	The Boys Averages: 3.53	Birdies: 0	Percentage: 0%	Pars: 2	Percentage: 100%
+Hole: 2		Par: 3	Average: 3.5	The Boys Averages: 4.4	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 3		Par: 3	Average: 3	The Boys Averages: 3.47	Birdies: 0	Percentage: 0%	Pars: 2	Percentage: 100%
+Hole: 4		Par: 3	Average: 3	The Boys Averages: 4.13	Birdies: 0	Percentage: 0%	Pars: 2	Percentage: 100%
+Hole: 5		Par: 3	Average: 3	The Boys Averages: 3.67	Birdies: 0	Percentage: 0%	Pars: 2	Percentage: 100%
+Hole: 6		Par: 3	Average: 3	The Boys Averages: 3.63	Birdies: 0	Percentage: 0%	Pars: 2	Percentage: 100%
+Hole: 7		Par: 3	Average: 3	The Boys Averages: 4.26	Birdies: 0	Percentage: 0%	Pars: 2	Percentage: 100%
+Hole: 8		Par: 3	Average: 3	The Boys Averages: 4.41	Birdies: 0	Percentage: 0%	Pars: 2	Percentage: 100%
+Hole: 9		Par: 3	Average: 2.5	The Boys Averages: 3.91	Birdies: 1	Percentage: 50%	Pars: 1	Percentage: 50%
+Hole: 10		Par: 3	Average: 3	The Boys Averages: 3.72	Birdies: 0	Percentage: 0%	Pars: 2	Percentage: 100%
+Hole: 11		Par: 3	Average: 3	The Boys Averages: 3.57	Birdies: 0	Percentage: 0%	Pars: 2	Percentage: 100%
+Hole: 12		Par: 3	Average: 2.5	The Boys Averages: 3.53	Birdies: 1	Percentage: 50%	Pars: 1	Percentage: 50%
+Hole: 13		Par: 3	Average: 3	The Boys Averages: 3.66	Birdies: 0	Percentage: 0%	Pars: 2	Percentage: 100%
+Hole: 14		Par: 3	Average: 3	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 2	Percentage: 100%
+Hole: 15		Par: 3	Average: 2.5	The Boys Averages: 3.3	Birdies: 1	Percentage: 50%	Pars: 1	Percentage: 50%
+Hole: 16		Par: 3	Average: 3	The Boys Averages: 4.23	Birdies: 0	Percentage: 0%	Pars: 2	Percentage: 100%
+Hole: 17		Par: 3	Average: 3	The Boys Averages: 3.85	Birdies: 0	Percentage: 0%	Pars: 2	Percentage: 100%
+Hole: 18		Par: 3	Average: 3	The Boys Averages: 3.75	Birdies: 0	Percentage: 0%	Pars: 2	Percentage: 100%
+Course: bronteCreekYellow
+Rounds Played: 1	Par: 54		Personal Best: 53(-1)Personal Average: 53	The Boys Best: 60(+6)The Boys Average: 60
+
+Hole: 1		Par: 3	Average: 3	The Boys Averages: 3.67	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 2		Par: 3	Average: 3	The Boys Averages: 3.33	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 3		Par: 3	Average: 3	The Boys Averages: 3.67	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 4		Par: 3	Average: 2	The Boys Averages: 2.67	Birdies: 1	Percentage: 100%	Pars: 0	Percentage: 0%
+Hole: 5		Par: 3	Average: 3	The Boys Averages: 3.33	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 6		Par: 3	Average: 3	The Boys Averages: 3	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 7		Par: 3	Average: 2	The Boys Averages: 3	Birdies: 1	Percentage: 100%	Pars: 0	Percentage: 0%
+Hole: 8		Par: 3	Average: 2	The Boys Averages: 3	Birdies: 1	Percentage: 100%	Pars: 0	Percentage: 0%
+Hole: 9		Par: 3	Average: 3	The Boys Averages: 3	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 10		Par: 3	Average: 4	The Boys Averages: 3.33	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 11		Par: 3	Average: 3	The Boys Averages: 3	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 12		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 13		Par: 3	Average: 3	The Boys Averages: 3.67	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 14		Par: 3	Average: 3	The Boys Averages: 3.33	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 15		Par: 3	Average: 3	The Boys Averages: 3.67	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 16		Par: 3	Average: 3	The Boys Averages: 3.33	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 17		Par: 3	Average: 3	The Boys Averages: 3.67	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 18		Par: 3	Average: 3	The Boys Averages: 3.33	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+
+
+
+Player: Quan
+Number of Rounds: 15
+
+Course: greenLane
+Rounds Played: 7	Par: 54		Personal Best: 66(+12)Personal Average: 71.7	The Boys Best: 55(+1)The Boys Average: 69
+
+Hole: 1		Par: 3	Average: 4.14	The Boys Averages: 3.53	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 14.3%
+Hole: 2		Par: 3	Average: 4.71	The Boys Averages: 4.4	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 14.3%
+Hole: 3		Par: 3	Average: 3.57	The Boys Averages: 3.47	Birdies: 0	Percentage: 0%	Pars: 4	Percentage: 57.1%
+Hole: 4		Par: 3	Average: 4.71	The Boys Averages: 4.13	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 5		Par: 3	Average: 4	The Boys Averages: 3.67	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 14.3%
+Hole: 6		Par: 3	Average: 3.43	The Boys Averages: 3.63	Birdies: 1	Percentage: 14.3%	Pars: 3	Percentage: 42.9%
+Hole: 7		Par: 3	Average: 4	The Boys Averages: 4.26	Birdies: 0	Percentage: 0%	Pars: 2	Percentage: 28.6%
+Hole: 8		Par: 3	Average: 5.14	The Boys Averages: 4.41	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 9		Par: 3	Average: 4	The Boys Averages: 3.91	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 14.3%
+Hole: 10		Par: 3	Average: 3.29	The Boys Averages: 3.72	Birdies: 0	Percentage: 0%	Pars: 6	Percentage: 85.7%
+Hole: 11		Par: 3	Average: 3.71	The Boys Averages: 3.57	Birdies: 0	Percentage: 0%	Pars: 3	Percentage: 42.9%
+Hole: 12		Par: 3	Average: 3.57	The Boys Averages: 3.53	Birdies: 0	Percentage: 0%	Pars: 3	Percentage: 42.9%
+Hole: 13		Par: 3	Average: 3.57	The Boys Averages: 3.66	Birdies: 0	Percentage: 0%	Pars: 4	Percentage: 57.1%
+Hole: 14		Par: 3	Average: 3.43	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 4	Percentage: 57.1%
+Hole: 15		Par: 3	Average: 3.29	The Boys Averages: 3.3	Birdies: 2	Percentage: 28.6%	Pars: 1	Percentage: 14.3%
+Hole: 16		Par: 3	Average: 4.71	The Boys Averages: 4.23	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 17		Par: 3	Average: 4.14	The Boys Averages: 3.85	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 18		Par: 3	Average: 4.29	The Boys Averages: 3.75	Birdies: 0	Percentage: 0%	Pars: 3	Percentage: 42.9%
+Course: christieLake
+Rounds Played: 3	Par: 58		Personal Best: 81(+23)Personal Average: 85.7	The Boys Best: 73(+15)The Boys Average: 81.3
+
+Hole: 1		Par: 3	Average: 4.67	The Boys Averages: 4.67	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 2		Par: 3	Average: 4.33	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 3		Par: 3	Average: 5	The Boys Averages: 4.33	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 4		Par: 4	Average: 4.67	The Boys Averages: 4.67	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 33.3%
+Hole: 5		Par: 4	Average: 7	The Boys Averages: 6.33	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 6		Par: 3	Average: 4.67	The Boys Averages: 4.44	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 33.3%
+Hole: 7		Par: 3	Average: 4	The Boys Averages: 3.56	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 33.3%
+Hole: 8		Par: 3	Average: 4	The Boys Averages: 3.89	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 33.3%
+Hole: 9		Par: 3	Average: 4.33	The Boys Averages: 4.67	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 10		Par: 3	Average: 4.67	The Boys Averages: 4.44	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 11		Par: 3	Average: 5.67	The Boys Averages: 5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 12		Par: 3	Average: 4.33	The Boys Averages: 4.22	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 33.3%
+Hole: 13		Par: 3	Average: 4.33	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 14		Par: 3	Average: 4.33	The Boys Averages: 3.78	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 15		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 16		Par: 3	Average: 3.33	The Boys Averages: 3.78	Birdies: 0	Percentage: 0%	Pars: 2	Percentage: 66.7%
+Hole: 17		Par: 4	Average: 6.67	The Boys Averages: 6.56	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 18		Par: 4	Average: 5.67	The Boys Averages: 5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+
+Course: laFortune
+Rounds Played: 2	Par: 58		Personal Best: 94(+36)Personal Average: 95.5	The Boys Best: 68(+10)The Boys Average: 89.1
+
+Hole: 1		Par: 3	Average: 5.5	The Boys Averages: 5.11	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 2		Par: 3	Average: 5.5	The Boys Averages: 4.44	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 3		Par: 3	Average: 5.5	The Boys Averages: 5.22	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 4		Par: 3	Average: 5.5	The Boys Averages: 4.67	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 5		Par: 3	Average: 6.5	The Boys Averages: 5.33	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 6		Par: 3	Average: 4	The Boys Averages: 4.11	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 7		Par: 3	Average: 7	The Boys Averages: 6.33	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 8		Par: 3	Average: 4.5	The Boys Averages: 4.78	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 9		Par: 3	Average: 7	The Boys Averages: 6.11	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 10		Par: 3	Average: 5.5	The Boys Averages: 4.56	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 11		Par: 4	Average: 4.5	The Boys Averages: 4.78	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 12		Par: 3	Average: 3.5	The Boys Averages: 3.56	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 13		Par: 3	Average: 4.5	The Boys Averages: 4.11	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 14		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 15		Par: 3	Average: 6.5	The Boys Averages: 5.67	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 16		Par: 3	Average: 4	The Boys Averages: 3.67	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 17		Par: 3	Average: 4	The Boys Averages: 4.11	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 18		Par: 3	Average: 4	The Boys Averages: 4.11	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 19		Par: 3	Average: 4	The Boys Averages: 4.43	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+
+Course: mohawk
+Rounds Played: 1	Par: 55		Personal Best: 63(+8)Personal Average: 63	The Boys Best: 60(+5)The Boys Average: 66.8
+
+Hole: 1		Par: 3	Average: 3	The Boys Averages: 4.2	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 2		Par: 3	Average: 4	The Boys Averages: 3.4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 3		Par: 3	Average: 4	The Boys Averages: 3.4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 4		Par: 4	Average: 4	The Boys Averages: 4.2	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 5		Par: 3	Average: 3	The Boys Averages: 3.4	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 6		Par: 3	Average: 4	The Boys Averages: 3.8	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 7		Par: 3	Average: 3	The Boys Averages: 3.8	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 8		Par: 3	Average: 3	The Boys Averages: 3.6	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 9		Par: 3	Average: 3	The Boys Averages: 3.6	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 10		Par: 3	Average: 3	The Boys Averages: 4.8	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 11		Par: 3	Average: 3	The Boys Averages: 3	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 12		Par: 3	Average: 5	The Boys Averages: 4.4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 13		Par: 3	Average: 3	The Boys Averages: 3.8	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 14		Par: 3	Average: 4	The Boys Averages: 3.6	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 15		Par: 3	Average: 4	The Boys Averages: 3.6	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 16		Par: 3	Average: 2	The Boys Averages: 2.6	Birdies: 1	Percentage: 100%	Pars: 0	Percentage: 0%
+Hole: 17		Par: 3	Average: 4	The Boys Averages: 3.6	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 18		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+
+Course: sangdale
+Rounds Played: 2	Par: 62		Personal Best: 77(+15)Personal Average: 79	The Boys Best: 62(0)The Boys Average: 72.4
+
+Hole: 1		Par: 3	Average: 4.5	The Boys Averages: 3.83	Birdies: 1	Percentage: 50%	Pars: 0	Percentage: 0%
+Hole: 2		Par: 3	Average: 3.5	The Boys Averages: 3.19	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 3		Par: 5	Average: 6	The Boys Averages: 5.19	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 4		Par: 3	Average: 5	The Boys Averages: 4.04	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 5		Par: 3	Average: 4	The Boys Averages: 3.6	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 6		Par: 3	Average: 4	The Boys Averages: 3.78	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 7		Par: 3	Average: 5.5	The Boys Averages: 4.17	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 8		Par: 4	Average: 4	The Boys Averages: 4.07	Birdies: 0	Percentage: 0%	Pars: 2	Percentage: 100%
+Hole: 9		Par: 3	Average: 5	The Boys Averages: 3.72	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 10		Par: 3	Average: 3.5	The Boys Averages: 4.21	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 11		Par: 4	Average: 5.5	The Boys Averages: 4.65	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 12		Par: 3	Average: 4.5	The Boys Averages: 3.36	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 13		Par: 3	Average: 4	The Boys Averages: 3.29	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 14		Par: 3	Average: 3	The Boys Averages: 3.38	Birdies: 0	Percentage: 0%	Pars: 2	Percentage: 100%
+Hole: 15		Par: 4	Average: 4	The Boys Averages: 4.51	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 16		Par: 4	Average: 4	The Boys Averages: 4.21	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 17		Par: 3	Average: 4	The Boys Averages: 3.97	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 18		Par: 5	Average: 5	The Boys Averages: 5.18	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+
+
+
+Player: Hannah
+Number of Rounds: 20
+
+Course: greenLane
+Rounds Played: 18	Par: 54		Personal Best: 74(+20)Personal Average: 81.5	The Boys Best: 55(+1)The Boys Average: 69
+
+Hole: 1		Par: 3	Average: 3.94	The Boys Averages: 3.53	Birdies: 0	Percentage: 0%	Pars: 5	Percentage: 27.8%
+Hole: 2		Par: 3	Average: 5.28	The Boys Averages: 4.4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 3		Par: 3	Average: 4.33	The Boys Averages: 3.47	Birdies: 0	Percentage: 0%	Pars: 3	Percentage: 16.7%
+Hole: 4		Par: 3	Average: 4.83	The Boys Averages: 4.13	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 5		Par: 3	Average: 4.33	The Boys Averages: 3.67	Birdies: 0	Percentage: 0%	Pars: 2	Percentage: 11.1%
+Hole: 6		Par: 3	Average: 3.94	The Boys Averages: 3.63	Birdies: 0	Percentage: 0%	Pars: 5	Percentage: 27.8%
+Hole: 7		Par: 3	Average: 4.89	The Boys Averages: 4.26	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 8		Par: 3	Average: 5.61	The Boys Averages: 4.41	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 9		Par: 3	Average: 4.61	The Boys Averages: 3.91	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 10		Par: 3	Average: 4.71	The Boys Averages: 3.72	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 11		Par: 3	Average: 4.29	The Boys Averages: 3.57	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 12		Par: 3	Average: 4.35	The Boys Averages: 3.53	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 13		Par: 3	Average: 4.18	The Boys Averages: 3.66	Birdies: 0	Percentage: 0%	Pars: 3	Percentage: 17.6%
+Hole: 14		Par: 3	Average: 4.59	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 15		Par: 3	Average: 3.94	The Boys Averages: 3.3	Birdies: 0	Percentage: 0%	Pars: 6	Percentage: 35.3%
+Hole: 16		Par: 3	Average: 4.94	The Boys Averages: 4.23	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 17		Par: 3	Average: 4.59	The Boys Averages: 3.85	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 18		Par: 3	Average: 4.12	The Boys Averages: 3.75	Birdies: 0	Percentage: 0%	Pars: 3	Percentage: 17.6%
+Course: vabarrie
+Rounds Played: 1	Par: 48		Personal Best: 69(+21)Personal Average: 69	The Boys Best: 55(+7)The Boys Average: 61.7
+
+Hole: 1		Par: 3	Average: 5	The Boys Averages: 3.67	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 2		Par: 3	Average: 5	The Boys Averages: 4.67	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 3		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 4		Par: 3	Average: 4	The Boys Averages: 3.67	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 5		Par: 3	Average: 4	The Boys Averages: 3.33	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 6		Par: 3	Average: 5	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 7		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 8		Par: 3	Average: 4	The Boys Averages: 3.67	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 9		Par: 3	Average: 3	The Boys Averages: 3.33	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 10		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 11		Par: 3	Average: 4	The Boys Averages: 3.67	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 12		Par: 3	Average: 5	The Boys Averages: 4.33	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 13		Par: 3	Average: 5	The Boys Averages: 3.67	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 14		Par: 3	Average: 3	The Boys Averages: 3	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 15		Par: 3	Average: 4	The Boys Averages: 3.67	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 16		Par: 3	Average: 6	The Boys Averages: 5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+
+Course: waterworks
+Rounds Played: 1	Par: 54		Personal Best: 78(+24)Personal Average: 78	The Boys Best: 63(+9)The Boys Average: 69.6
+
+Hole: 1		Par: 3	Average: 4	The Boys Averages: 4.14	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 2		Par: 3	Average: 4	The Boys Averages: 3.86	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 3		Par: 3	Average: 5	The Boys Averages: 4.43	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 4		Par: 3	Average: 3	The Boys Averages: 3.57	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 5		Par: 3	Average: 4	The Boys Averages: 4.57	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 6		Par: 3	Average: 4	The Boys Averages: 3.57	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 7		Par: 3	Average: 4	The Boys Averages: 3.43	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 8		Par: 3	Average: 4	The Boys Averages: 3.57	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 9		Par: 3	Average: 4	The Boys Averages: 3.14	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 10		Par: 3	Average: 4	The Boys Averages: 3.57	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 11		Par: 3	Average: 6	The Boys Averages: 4.14	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 12		Par: 3	Average: 4	The Boys Averages: 3.57	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 13		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 14		Par: 3	Average: 7	The Boys Averages: 5.29	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 15		Par: 3	Average: 4	The Boys Averages: 3.57	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 16		Par: 3	Average: 4	The Boys Averages: 3.71	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 17		Par: 3	Average: 4	The Boys Averages: 3.43	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 18		Par: 3	Average: 5	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+
+
+
+Player: V
+Number of Rounds: 6
+
+Course: greenLane
+Rounds Played: 6	Par: 54		Personal Best: 85(+31)Personal Average: 90.7	The Boys Best: 55(+1)The Boys Average: 69
+
+Hole: 1		Par: 3	Average: 4.5	The Boys Averages: 3.53	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 2		Par: 3	Average: 5.83	The Boys Averages: 4.4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 3		Par: 3	Average: 4.17	The Boys Averages: 3.47	Birdies: 0	Percentage: 0%	Pars: 2	Percentage: 33.3%
+Hole: 4		Par: 3	Average: 5.17	The Boys Averages: 4.13	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 5		Par: 3	Average: 5	The Boys Averages: 3.67	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 6		Par: 3	Average: 4.67	The Boys Averages: 3.63	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 7		Par: 3	Average: 5.5	The Boys Averages: 4.26	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 8		Par: 3	Average: 6	The Boys Averages: 4.41	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 9		Par: 3	Average: 5	The Boys Averages: 3.91	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 10		Par: 3	Average: 4.83	The Boys Averages: 3.72	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 16.7%
+Hole: 11		Par: 3	Average: 4.83	The Boys Averages: 3.57	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 12		Par: 3	Average: 4.67	The Boys Averages: 3.53	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 13		Par: 3	Average: 5.67	The Boys Averages: 3.66	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 14		Par: 3	Average: 5.33	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 15		Par: 3	Average: 5.17	The Boys Averages: 3.3	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 16		Par: 3	Average: 5	The Boys Averages: 4.23	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 17		Par: 3	Average: 5.17	The Boys Averages: 3.85	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 18		Par: 3	Average: 4.17	The Boys Averages: 3.75	Birdies: 0	Percentage: 0%	Pars: 2	Percentage: 33.3%
+
+
+Player: Ricky
+Number of Rounds: 2
+
+Course: greenLane
+Rounds Played: 1	Par: 54		Personal Best: 70(+16)Personal Average: 70	The Boys Best: 55(+1)The Boys Average: 69
+
+Hole: 1		Par: 3	Average: 3	The Boys Averages: 3.53	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 2		Par: 3	Average: 5	The Boys Averages: 4.4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 3		Par: 3	Average: 4	The Boys Averages: 3.47	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 4		Par: 3	Average: 4	The Boys Averages: 4.13	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 5		Par: 3	Average: 4	The Boys Averages: 3.67	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 6		Par: 3	Average: 4	The Boys Averages: 3.63	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 7		Par: 3	Average: 5	The Boys Averages: 4.26	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 8		Par: 3	Average: 4	The Boys Averages: 4.41	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 9		Par: 3	Average: 4	The Boys Averages: 3.91	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 10		Par: 3	Average: 4	The Boys Averages: 3.72	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 11		Par: 3	Average: 4	The Boys Averages: 3.57	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 12		Par: 3	Average: 4	The Boys Averages: 3.53	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 13		Par: 3	Average: 3	The Boys Averages: 3.66	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 14		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 15		Par: 3	Average: 3	The Boys Averages: 3.3	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 16		Par: 3	Average: 4	The Boys Averages: 4.23	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 17		Par: 3	Average: 4	The Boys Averages: 3.85	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 18		Par: 3	Average: 3	The Boys Averages: 3.75	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Course: sangdale
+Rounds Played: 1	Par: 62		Personal Best: 77(+15)Personal Average: 77	The Boys Best: 62(0)The Boys Average: 72.4
+
+Hole: 1		Par: 3	Average: 5	The Boys Averages: 3.83	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 2		Par: 3	Average: 3	The Boys Averages: 3.19	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 3		Par: 5	Average: 5	The Boys Averages: 5.19	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 4		Par: 3	Average: 5	The Boys Averages: 4.04	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 5		Par: 3	Average: 5	The Boys Averages: 3.6	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 6		Par: 3	Average: 4	The Boys Averages: 3.78	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 7		Par: 3	Average: 4	The Boys Averages: 4.17	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 8		Par: 4	Average: 4	The Boys Averages: 4.07	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 9		Par: 3	Average: 4	The Boys Averages: 3.72	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 10		Par: 3	Average: 4	The Boys Averages: 4.21	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 11		Par: 4	Average: 4	The Boys Averages: 4.65	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 12		Par: 3	Average: 4	The Boys Averages: 3.36	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 13		Par: 3	Average: 3	The Boys Averages: 3.29	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 14		Par: 3	Average: 3	The Boys Averages: 3.38	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 15		Par: 4	Average: 5	The Boys Averages: 4.51	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 16		Par: 4	Average: 5	The Boys Averages: 4.21	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 17		Par: 3	Average: 4	The Boys Averages: 3.97	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 18		Par: 5	Average: 6	The Boys Averages: 5.18	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+
+
+
+Player: Whitey
+Number of Rounds: 1
+
+Course: greenLane
+Rounds Played: 1	Par: 54		Personal Best: 74(+20)Personal Average: 74	The Boys Best: 55(+1)The Boys Average: 69
+
+Hole: 1		Par: 3	Average: 2	The Boys Averages: 3.53	Birdies: 1	Percentage: 100%	Pars: 0	Percentage: 0%
+Hole: 2		Par: 3	Average: 3	The Boys Averages: 4.4	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 3		Par: 3	Average: 6	The Boys Averages: 3.47	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 4		Par: 3	Average: 3	The Boys Averages: 4.13	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 5		Par: 3	Average: 4	The Boys Averages: 3.67	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 6		Par: 3	Average: 5	The Boys Averages: 3.63	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 7		Par: 3	Average: 5	The Boys Averages: 4.26	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 8		Par: 3	Average: 4	The Boys Averages: 4.41	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 9		Par: 3	Average: 4	The Boys Averages: 3.91	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 10		Par: 3	Average: 5	The Boys Averages: 3.72	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 11		Par: 3	Average: 3	The Boys Averages: 3.57	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 12		Par: 3	Average: 6	The Boys Averages: 3.53	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 13		Par: 3	Average: 5	The Boys Averages: 3.66	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 14		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 15		Par: 3	Average: 3	The Boys Averages: 3.3	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 16		Par: 3	Average: 4	The Boys Averages: 4.23	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 17		Par: 3	Average: 4	The Boys Averages: 3.85	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 18		Par: 3	Average: 4	The Boys Averages: 3.75	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+
+
+Player: Bernier
+Number of Rounds: 8
+
+Course: greenLane
+Rounds Played: 4	Par: 54		Personal Best: 69(+15)Personal Average: 72.3	The Boys Best: 55(+1)The Boys Average: 69
+
+Hole: 1		Par: 3	Average: 3.5	The Boys Averages: 3.53	Birdies: 0	Percentage: 0%	Pars: 2	Percentage: 50%
+Hole: 2		Par: 3	Average: 5	The Boys Averages: 4.4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 3		Par: 3	Average: 3.75	The Boys Averages: 3.47	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 25%
+Hole: 4		Par: 3	Average: 4.25	The Boys Averages: 4.13	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 5		Par: 3	Average: 4.25	The Boys Averages: 3.67	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 6		Par: 3	Average: 4.5	The Boys Averages: 3.63	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 25%
+Hole: 7		Par: 3	Average: 4.25	The Boys Averages: 4.26	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 8		Par: 3	Average: 3.5	The Boys Averages: 4.41	Birdies: 0	Percentage: 0%	Pars: 2	Percentage: 50%
+Hole: 9		Par: 3	Average: 4.5	The Boys Averages: 3.91	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 10		Par: 3	Average: 3.5	The Boys Averages: 3.72	Birdies: 0	Percentage: 0%	Pars: 2	Percentage: 50%
+Hole: 11		Par: 3	Average: 3.5	The Boys Averages: 3.57	Birdies: 0	Percentage: 0%	Pars: 2	Percentage: 50%
+Hole: 12		Par: 3	Average: 3.5	The Boys Averages: 3.53	Birdies: 1	Percentage: 25%	Pars: 1	Percentage: 25%
+Hole: 13		Par: 3	Average: 3.5	The Boys Averages: 3.66	Birdies: 0	Percentage: 0%	Pars: 2	Percentage: 50%
+Hole: 14		Par: 3	Average: 4.25	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 25%
+Hole: 15		Par: 3	Average: 3	The Boys Averages: 3.3	Birdies: 1	Percentage: 25%	Pars: 2	Percentage: 50%
+Hole: 16		Par: 3	Average: 4.5	The Boys Averages: 4.23	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 17		Par: 3	Average: 4.75	The Boys Averages: 3.85	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 18		Par: 3	Average: 4.25	The Boys Averages: 3.75	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Course: laFortune
+Rounds Played: 1	Par: 58		Personal Best: 897(+839)Personal Average: -nan(ind)	The Boys Best: 68(+10)The Boys Average: 89.1
+
+Hole: 1		Par: 3	Average: 5	The Boys Averages: 5.11	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 2		Par: 3	Average: 4	The Boys Averages: 4.44	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 3		Par: 3	Average: 5	The Boys Averages: 5.22	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 4		Par: 3	Average: 5	The Boys Averages: 4.67	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 5		Par: 3	Average: 6	The Boys Averages: 5.33	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 6		Par: 3	Average: 3	The Boys Averages: 4.11	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 7		Par: 3	Average: 7	The Boys Averages: 6.33	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 8		Par: 3	Average: 5	The Boys Averages: 4.78	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 9		Par: 3	Average: 6	The Boys Averages: 6.11	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 10		Par: 3	Average: 6	The Boys Averages: 4.56	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 11		Par: 4	Average: 4	The Boys Averages: 4.78	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 12		Par: 3	Average: 4	The Boys Averages: 3.56	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 13		Par: 3	Average: 4	The Boys Averages: 4.11	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 14		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 15		Par: 3	Average: 5	The Boys Averages: 5.67	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 16		Par: 3	Average: 3	The Boys Averages: 3.67	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 17		Par: 3	Average: 3	The Boys Averages: 4.11	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 18		Par: 3	Average: 5	The Boys Averages: 4.11	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 19		Par: 3	Average: -nan(ind)	The Boys Averages: 4.43	Birdies: 0	Percentage: -nan(ind)%	Pars: 0	Percentage: -nan(ind)%
+
+Course: pittock
+Rounds Played: 1	Par: 55		Personal Best: 75(+20)Personal Average: 75	The Boys Best: 75(+20)The Boys Average: 77.3
+
+Hole: 1		Par: 3	Average: 5	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 2		Par: 3	Average: 4	The Boys Averages: 4.67	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 3		Par: 3	Average: 4	The Boys Averages: 3.67	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 4		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 5		Par: 3	Average: 3	The Boys Averages: 3	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 6		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 7		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 8		Par: 3	Average: 4	The Boys Averages: 3.67	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 9		Par: 3	Average: 4	The Boys Averages: 4.67	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 10		Par: 4	Average: 6	The Boys Averages: 6.33	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 11		Par: 3	Average: 5	The Boys Averages: 4.67	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 12		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 13		Par: 3	Average: 4	The Boys Averages: 4.67	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 14		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 15		Par: 3	Average: 4	The Boys Averages: 5	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 16		Par: 3	Average: 4	The Boys Averages: 4.33	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 17		Par: 3	Average: 4	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 18		Par: 3	Average: 4	The Boys Averages: 4.67	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+
+Course: sangdale
+Rounds Played: 2	Par: 62		Personal Best: 66(+4)Personal Average: 67.5	The Boys Best: 62(0)The Boys Average: 72.4
+
+Hole: 1		Par: 3	Average: 3.5	The Boys Averages: 3.83	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 2		Par: 3	Average: 4	The Boys Averages: 3.19	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 3		Par: 5	Average: 3.5	The Boys Averages: 5.19	Birdies: 2	Percentage: 100%	Pars: 0	Percentage: 0%
+Hole: 4		Par: 3	Average: 4	The Boys Averages: 4.04	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 50%
+Hole: 5		Par: 3	Average: 4.5	The Boys Averages: 3.6	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 6		Par: 3	Average: 4	The Boys Averages: 3.78	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 7		Par: 3	Average: 3	The Boys Averages: 4.17	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 8		Par: 4	Average: 4	The Boys Averages: 4.07	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 9		Par: 3	Average: 3	The Boys Averages: 3.72	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 10		Par: 3	Average: 3	The Boys Averages: 4.21	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 11		Par: 4	Average: 4	The Boys Averages: 4.65	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 12		Par: 3	Average: 3	The Boys Averages: 3.36	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 13		Par: 3	Average: 3	The Boys Averages: 3.29	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 14		Par: 3	Average: 4	The Boys Averages: 3.38	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 15		Par: 4	Average: 5	The Boys Averages: 4.51	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 16		Par: 4	Average: 4	The Boys Averages: 4.21	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 17		Par: 3	Average: 4	The Boys Averages: 3.97	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 18		Par: 5	Average: 4	The Boys Averages: 5.18	Birdies: 1	Percentage: 100%	Pars: 0	Percentage: 0%
+
+
+
+Player: Bailey
+Number of Rounds: 1
+
+Course: greenLane
+Rounds Played: 1	Par: 54		Personal Best: 99(+45)Personal Average: 99	The Boys Best: 55(+1)The Boys Average: 69
+
+Hole: 1		Par: 3	Average: 6	The Boys Averages: 3.53	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 2		Par: 3	Average: 6	The Boys Averages: 4.4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 3		Par: 3	Average: 4	The Boys Averages: 3.47	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 4		Par: 3	Average: 7	The Boys Averages: 4.13	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 5		Par: 3	Average: 5	The Boys Averages: 3.67	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 6		Par: 3	Average: 4	The Boys Averages: 3.63	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 7		Par: 3	Average: 7	The Boys Averages: 4.26	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 8		Par: 3	Average: 5	The Boys Averages: 4.41	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 9		Par: 3	Average: 6	The Boys Averages: 3.91	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 10		Par: 3	Average: 7	The Boys Averages: 3.72	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 11		Par: 3	Average: 5	The Boys Averages: 3.57	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 12		Par: 3	Average: 5	The Boys Averages: 3.53	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 13		Par: 3	Average: 6	The Boys Averages: 3.66	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 14		Par: 3	Average: 6	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 15		Par: 3	Average: 5	The Boys Averages: 3.3	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 16		Par: 3	Average: 5	The Boys Averages: 4.23	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 17		Par: 3	Average: 5	The Boys Averages: 3.85	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 18		Par: 3	Average: 5	The Boys Averages: 3.75	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+
+
+Player: Fronch
+Number of Rounds: 1
+
+Course: greenLane
+Rounds Played: 1	Par: 54		Personal Best: 100(+46)Personal Average: 100	The Boys Best: 55(+1)The Boys Average: 69
+
+Hole: 1		Par: 3	Average: 5	The Boys Averages: 3.53	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 2		Par: 3	Average: 6	The Boys Averages: 4.4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 3		Par: 3	Average: 3	The Boys Averages: 3.47	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 4		Par: 3	Average: 7	The Boys Averages: 4.13	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 5		Par: 3	Average: 5	The Boys Averages: 3.67	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 6		Par: 3	Average: 4	The Boys Averages: 3.63	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 7		Par: 3	Average: 8	The Boys Averages: 4.26	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 8		Par: 3	Average: 6	The Boys Averages: 4.41	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 9		Par: 3	Average: 7	The Boys Averages: 3.91	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 10		Par: 3	Average: 7	The Boys Averages: 3.72	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 11		Par: 3	Average: 5	The Boys Averages: 3.57	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 12		Par: 3	Average: 5	The Boys Averages: 3.53	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 13		Par: 3	Average: 7	The Boys Averages: 3.66	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 14		Par: 3	Average: 7	The Boys Averages: 4	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 15		Par: 3	Average: 4	The Boys Averages: 3.3	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 16		Par: 3	Average: 5	The Boys Averages: 4.23	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 17		Par: 3	Average: 4	The Boys Averages: 3.85	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 18		Par: 3	Average: 5	The Boys Averages: 3.75	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+
+
+Player: Ferg
+Number of Rounds: 1
+
+Course: sangdale
+Rounds Played: 1	Par: 62		Personal Best: 897(+835)Personal Average: -nan(ind)	The Boys Best: 62(0)The Boys Average: 72.4
+
+Hole: 1		Par: 3	Average: 6	The Boys Averages: 3.83	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 2		Par: 3	Average: 4	The Boys Averages: 3.19	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 3		Par: 5	Average: 7	The Boys Averages: 5.19	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 4		Par: 3	Average: 6	The Boys Averages: 4.04	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 5		Par: 3	Average: 3	The Boys Averages: 3.6	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 6		Par: 3	Average: 6	The Boys Averages: 3.78	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 7		Par: 3	Average: 5	The Boys Averages: 4.17	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 8		Par: 4	Average: 4	The Boys Averages: 4.07	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 9		Par: 3	Average: 4	The Boys Averages: 3.72	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 10		Par: 3	Average: 4	The Boys Averages: 4.21	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 11		Par: 4	Average: 7	The Boys Averages: 4.65	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 12		Par: 3	Average: 5	The Boys Averages: 3.36	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 13		Par: 3	Average: 4	The Boys Averages: 3.29	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 14		Par: 3	Average: 4	The Boys Averages: 3.38	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 15		Par: 4	Average: -nan(ind)	The Boys Averages: 4.51	Birdies: 0	Percentage: -nan(ind)%	Pars: 0	Percentage: -nan(ind)%
+Hole: 16		Par: 4	Average: -nan(ind)	The Boys Averages: 4.21	Birdies: 0	Percentage: -nan(ind)%	Pars: 0	Percentage: -nan(ind)%
+Hole: 17		Par: 3	Average: -nan(ind)	The Boys Averages: 3.97	Birdies: 0	Percentage: -nan(ind)%	Pars: 0	Percentage: -nan(ind)%
+Hole: 18		Par: 5	Average: -nan(ind)	The Boys Averages: 5.18	Birdies: 0	Percentage: -nan(ind)%	Pars: 0	Percentage: -nan(ind)%
+
+
+
+Player: Taylor
+Number of Rounds: 1
+
+Course: sangdale
+Rounds Played: 1	Par: 62		Personal Best: 897(+835)Personal Average: -nan(ind)	The Boys Best: 62(0)The Boys Average: 72.4
+
+Hole: 1		Par: 3	Average: 7	The Boys Averages: 3.83	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 2		Par: 3	Average: 7	The Boys Averages: 3.19	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 3		Par: 5	Average: 5	The Boys Averages: 5.19	Birdies: 0	Percentage: 0%	Pars: 1	Percentage: 100%
+Hole: 4		Par: 3	Average: 6	The Boys Averages: 4.04	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 5		Par: 3	Average: 6	The Boys Averages: 3.6	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 6		Par: 3	Average: 7	The Boys Averages: 3.78	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 7		Par: 3	Average: 7	The Boys Averages: 4.17	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 8		Par: 4	Average: 6	The Boys Averages: 4.07	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 9		Par: 3	Average: 6	The Boys Averages: 3.72	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 10		Par: 3	Average: 7	The Boys Averages: 4.21	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 11		Par: 4	Average: 7	The Boys Averages: 4.65	Birdies: 0	Percentage: 0%	Pars: 0	Percentage: 0%
+Hole: 12		Par: 3	Average: -nan(ind)	The Boys Averages: 3.36	Birdies: 0	Percentage: -nan(ind)%	Pars: 0	Percentage: -nan(ind)%
+Hole: 13		Par: 3	Average: -nan(ind)	The Boys Averages: 3.29	Birdies: 0	Percentage: -nan(ind)%	Pars: 0	Percentage: -nan(ind)%
+Hole: 14		Par: 3	Average: -nan(ind)	The Boys Averages: 3.38	Birdies: 0	Percentage: -nan(ind)%	Pars: 0	Percentage: -nan(ind)%
+Hole: 15		Par: 4	Average: -nan(ind)	The Boys Averages: 4.51	Birdies: 0	Percentage: -nan(ind)%	Pars: 0	Percentage: -nan(ind)%
+Hole: 16		Par: 4	Average: -nan(ind)	The Boys Averages: 4.21	Birdies: 0	Percentage: -nan(ind)%	Pars: 0	Percentage: -nan(ind)%
+Hole: 17		Par: 3	Average: -nan(ind)	The Boys Averages: 3.97	Birdies: 0	Percentage: -nan(ind)%	Pars: 0	Percentage: -nan(ind)%
+Hole: 18		Par: 5	Average: -nan(ind)	The Boys Averages: 5.18	Birdies: 0	Percentage: -nan(ind)%	Pars: 0	Percentage: -nan(ind)%
+
+
+
